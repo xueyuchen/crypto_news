@@ -1,0 +1,29 @@
+{
+  "name": "crypto-news-bot",
+  "version": "1.0.0",
+  "description": "自动收集和推送加密货币相关的美联储动态和宏观新闻到 Telegram",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "news",
+    "telegram",
+    "github-actions",
+    "fed",
+    "macro"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "rss-parser": "^3.13.0",
+    "cheerio": "^1.0.0-rc.12",
+    "node-telegram-bot-api": "^0.64.0",
+    "openai": "^4.20.1",
+    "dotenv": "^16.3.1"
+  }
+}
