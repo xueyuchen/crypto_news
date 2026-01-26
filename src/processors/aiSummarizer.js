@@ -95,9 +95,24 @@ export async function summarizeNews(newsItem) {
         })
       : '未知时间';
 
+    // 影响评分信息
+    let impactSection = '';
+    if (newsItem.impact) {
+      const impact = newsItem.impact;
+      const emoji = getImpactEmoji(impact.totalScore);
+      const directionEmoji = getDirectionEmoji(impact.direction);
+      
+      impactSection = `\n📊 Fed → Crypto 影响评分：${emoji} *${impact.totalScore}/100* (${impact.level}) ${directionEmoji}${impact.direction}
+   • 政策力度：${impact.policyStrength}/25
+   • 预期差：${impact.expectationGap}/25
+   • 时间紧迫：${impact.timeUrgency}/25
+   • 加密相关：${impact.cryptoRelevance}/25
+   💭 ${impact.reasoning}\n`;
+    }
+
     return `📰 ${newsItem.title}
 ⏰ ${formattedDate}
-
+${impactSection}
 🔍 核心要点：
 ${result.summary || '无摘要'}
 
@@ -113,9 +128,24 @@ ${result.marketImpact || '无影响分析'}
       ? new Date(newsItem.publishedAt).toLocaleString('zh-CN')
       : '未知时间';
     
+    // 影响评分信息
+    let impactSection = '';
+    if (newsItem.impact) {
+      const impact = newsItem.impact;
+      const emoji = getImpactEmoji(impact.totalScore);
+      const directionEmoji = getDirectionEmoji(impact.direction);
+      
+      impactSection = `\n📊 Fed → Crypto 影响评分：${emoji} *${impact.totalScore}/100* (${impact.level}) ${directionEmoji}${impact.direction}
+   • 政策力度：${impact.policyStrength}/25
+   • 预期差：${impact.expectationGap}/25
+   • 时间紧迫：${impact.timeUrgency}/25
+   • 加密相关：${impact.cryptoRelevance}/25
+   💭 ${impact.reasoning}\n`;
+    }
+    
     return `📰 ${newsItem.title}
 ⏰ ${formattedDate}
-
+${impactSection}
 🔍 核心要点：
 ${newsItem.description || '无摘要'}
 
@@ -124,6 +154,30 @@ ${newsItem.description || '无摘要'}
 
 🔗 原文链接：${newsItem.url}`;
   }
+}
+
+/**
+ * 根据影响评分获取表情符号
+ * @param {number} score - 影响评分
+ * @returns {string} 表情符号
+ */
+function getImpactEmoji(score) {
+  if (score >= 80) return '🔴'; // 极高影响
+  if (score >= 60) return '🟠'; // 高影响
+  if (score >= 40) return '🟡'; // 中等影响
+  if (score >= 20) return '🟢'; // 低影响
+  return '⚪'; // 微弱影响
+}
+
+/**
+ * 根据影响方向获取表情符号
+ * @param {string} direction - 影响方向
+ * @returns {string} 表情符号
+ */
+function getDirectionEmoji(direction) {
+  if (direction === '利好') return '📈';
+  if (direction === '利空') return '📉';
+  return '➡️';
 }
 
 /**
@@ -150,8 +204,16 @@ export async function summarizeAllNews(news) {
       summaries.push(summary);
     } catch (error) {
       console.error(`  总结失败: ${error.message}`);
-      // 失败时使用原始信息
-      summaries.push(`📰 ${item.title}\n⏰ ${new Date(item.publishedAt).toLocaleString('zh-CN')}\n\n${item.description || '无摘要'}\n\n🔗 ${item.url}`);
+      // 失败时使用原始信息，包含影响评分
+      let impactSection = '';
+      if (item.impact) {
+        const impact = item.impact;
+        const emoji = getImpactEmoji(impact.totalScore);
+        const directionEmoji = getDirectionEmoji(impact.direction);
+        
+        impactSection = `\n📊 Fed → Crypto 影响评分：${emoji} *${impact.totalScore}/100* (${impact.level}) ${directionEmoji}${impact.direction}\n   • 政策力度：${impact.policyStrength}/25\n   • 预期差：${impact.expectationGap}/25\n   • 时间紧迫：${impact.timeUrgency}/25\n   • 加密相关：${impact.cryptoRelevance}/25\n   💭 ${impact.reasoning}\n`;
+      }
+      summaries.push(`📰 ${item.title}\n⏰ ${new Date(item.publishedAt).toLocaleString('zh-CN')}${impactSection}\n${item.description || '无摘要'}\n\n🔗 ${item.url}`);
     }
     
     // 避免 API 限流

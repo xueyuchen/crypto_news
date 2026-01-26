@@ -9,6 +9,7 @@ import { fetchAllRSSFeeds } from './fetchers/rssFetcher.js';
 import { scrapeAllWebPages } from './fetchers/webScraper.js';
 import { filterByKeywords } from './filters/keywordFilter.js';
 import { filterByAI } from './filters/aiFilter.js';
+import { scoreAllNewsImpact } from './processors/impactScorer.js';
 import { summarizeAllNews } from './processors/aiSummarizer.js';
 import { loadSentNews, filterUnsentNews, saveSentNews } from './utils/deduplicator.js';
 import { sendNewsSummaries, sendSimpleMessage } from './telegram/sender.js';
@@ -71,13 +72,21 @@ async function main() {
       return;
     }
 
-    // 4. 去重检查
+    // 4. Fed → Crypto 影响评分
     console.log('='.repeat(50));
-    console.log('步骤 4: 去重检查');
+    console.log('步骤 4: Fed → Crypto 影响评分');
+    console.log('='.repeat(50));
+    
+    const scoredNews = await scoreAllNewsImpact(aiFiltered);
+    console.log(`\n✅ 影响评分完成，已按评分排序\n`);
+
+    // 5. 去重检查
+    console.log('='.repeat(50));
+    console.log('步骤 5: 去重检查');
     console.log('='.repeat(50));
     
     const { urls: sentUrls, records: existingRecords } = loadSentNews();
-    const unsentNews = filterUnsentNews(aiFiltered, sentUrls);
+    const unsentNews = filterUnsentNews(scoredNews, sentUrls);
     console.log(`\n✅ 去重后剩余 ${unsentNews.length} 条未发送新闻\n`);
 
     if (unsentNews.length === 0) {
@@ -86,25 +95,25 @@ async function main() {
       return;
     }
 
-    // 5. AI 内容总结
+    // 6. AI 内容总结
     console.log('='.repeat(50));
-    console.log('步骤 5: AI 内容总结');
+    console.log('步骤 6: AI 内容总结');
     console.log('='.repeat(50));
     
     const summaries = await summarizeAllNews(unsentNews);
     console.log(`\n✅ 生成 ${summaries.length} 个摘要\n`);
 
-    // 6. 发送到 Telegram
+    // 7. 发送到 Telegram
     console.log('='.repeat(50));
-    console.log('步骤 6: 发送到 Telegram');
+    console.log('步骤 7: 发送到 Telegram');
     console.log('='.repeat(50));
     
     const sentCount = await sendNewsSummaries(summaries);
     console.log(`\n✅ 成功发送 ${sentCount} 条新闻\n`);
 
-    // 7. 保存已发送记录
+    // 8. 保存已发送记录
     console.log('='.repeat(50));
-    console.log('步骤 7: 保存已发送记录');
+    console.log('步骤 8: 保存已发送记录');
     console.log('='.repeat(50));
     
     saveSentNews(unsentNews, existingRecords);
@@ -115,7 +124,7 @@ async function main() {
     console.log('='.repeat(50));
     console.log('✅ 任务完成！');
     console.log(`⏱️  总耗时: ${duration} 秒`);
-    console.log(`📊 统计: 抓取 ${allNews.length} 条 → 关键词筛选 ${keywordFiltered.length} 条 → AI 过滤 ${aiFiltered.length} 条 → 去重 ${unsentNews.length} 条 → 发送 ${sentCount} 条`);
+    console.log(`📊 统计: 抓取 ${allNews.length} 条 → 关键词筛选 ${keywordFiltered.length} 条 → AI 过滤 ${aiFiltered.length} 条 → 影响评分 ${scoredNews.length} 条 → 去重 ${unsentNews.length} 条 → 发送 ${sentCount} 条`);
     console.log('='.repeat(50));
 
   } catch (error) {
