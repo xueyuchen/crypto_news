@@ -126,6 +126,7 @@ async function main() {
     console.log(`⏱️  总耗时: ${duration} 秒`);
     console.log(`📊 统计: 抓取 ${allNews.length} 条 → 关键词筛选 ${keywordFiltered.length} 条 → AI 过滤 ${aiFiltered.length} 条 → 影响评分 ${scoredNews.length} 条 → 去重 ${unsentNews.length} 条 → 发送 ${sentCount} 条`);
     console.log('='.repeat(50));
+    process.exit(0);
 
   } catch (error) {
     console.error('\n❌ 任务执行失败:', error);
