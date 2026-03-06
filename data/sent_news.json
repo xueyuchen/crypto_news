@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/trump-fed-nomination-mixed-signal-bitcoin-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Trump's Fed nomination a ‘mixed’ signal for Bitcoin, US liquidity: Analyst",
-      "sentAt": "2026-02-03T03:30:39.564Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitmine-7b-paper-loss-market-crash-eth-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BitMine nears $7B in unrealized losses as Ether downturn pressures treasury firms",
-      "sentAt": "2026-02-03T03:30:39.564Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-02-02/coeur-mining-ceo-see-every-gold-tailwind-you-could-want-video",
-      "title": "Coeur Mining CEO: See Every Gold Tailwind You Could Want",
-      "sentAt": "2026-02-03T03:30:39.564Z"
-    },
-    {
       "url": "https://www.coindesk.com/policy/2026/02/03/u-s-treasury-probes-crypto-exchanges-over-iran-sanctions-evasion-trm-labs-says",
       "title": "U.S. Treasury probes crypto exchanges over Iran sanctions evasion, TRM Labs says",
       "sentAt": "2026-02-04T03:28:00.138Z"
@@ -709,7 +694,67 @@
       "url": "https://www.coindesk.com/markets/2026/03/04/crypto-bulls-slam-ray-dalio-s-tired-narratives-in-defense-of-bitcoin-s-future",
       "title": "Crypto bulls slam Ray Dalio's 'tired narratives' in defense of bitcoin's future",
       "sentAt": "2026-03-05T03:26:47.351Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/05/u-s-judge-freezes-blockfills-assets-in-dispute-over-70-bitcoin-with-creditor-dominion-capital",
+      "title": "U.S. judge freezes BlockFills assets in dispute over 70 bitcoin with creditor Dominion Capital",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://www.coindesk.com/news-analysis/2026/03/05/kraken-s-surprise-fed-win-may-harken-onslaught-of-crypto-firms-with-limited-fed-access",
+      "title": "Kraken's surprise Fed win may harken onslaught of crypto firms with narrow Fed access",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/05/crypto-friendly-fintech-giant-revolut-files-for-u-s-banking-license",
+      "title": "Crypto-friendly fintech giant Revolut files for U.S. banking license",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/05/zerohash-applies-for-national-trust-bank-charter-to-expand-regulated-stablecoin-services",
+      "title": "ZeroHash applies for national trust bank charter to expand regulated stablecoin services",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/sofi-bitgo-bank-issued-stablecoin-sofiusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "SoFi taps BitGo to provide infrastructure for bank-issued stablecoin",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/sec-proposal-white-house-interpreting-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "SEC proposes 'token taxonomy' for interpreting crypto under securities laws",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/05/u-s-banking-agencies-say-capital-should-be-same-for-standard-or-tokenized-securities",
+      "title": "U.S. banking agencies say capital should be same for standard or tokenized securities",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/uae-central-bank-banks-operational-regional-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "UAE central bank says financial system stable amid missile and drone attacks",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/05/chamath-palihapitiya-questions-bitcoin-s-role-as-central-bank-reserve-asset",
+      "title": "Chamath Palihapitiya questions bitcoin’s role as central bank reserve asset",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/cleanspark-sells-most-february-bitcoin-output-generating-36-6m-in-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "CleanSpark sells 553 BTC for $36.6M in February as miners offload Bitcoin",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk",
+      "title": "Short seller Culper bets against ether, Tom Lee's BitMine citing 'death spiral' risk",
+      "sentAt": "2026-03-06T03:25:30.713Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/fbi-arrest-bitcoin-theft-crypto-custody-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "FBI arrests custody company CEO‘s son over alleged $46M crypto theft",
+      "sentAt": "2026-03-06T03:25:30.713Z"
     }
   ],
-  "lastUpdated": "2026-03-05T03:26:47.351Z"
+  "lastUpdated": "2026-03-06T03:25:30.714Z"
 }
