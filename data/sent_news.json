@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-02-07/get-ready-for-double-whammy-of-us-jobs-and-inflation",
-      "title": "Get Ready for Double Whammy of US Jobs and Inflation",
-      "sentAt": "2026-02-08T03:50:34.585Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/02/07/bitcoin-s-50-drop-isn-t-a-crisis-says-hedge-fund-veteran-gary-bode",
-      "title": "Bitcoin’s 50% plunge isn’t a crisis, says hedge fund veteran Gary Bode",
-      "sentAt": "2026-02-08T03:50:34.585Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/federal-reserve-gradual-print-lyn-alden?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Federal Reserve entering 'gradual print' mode — Lyn Alden",
       "sentAt": "2026-02-09T03:38:46.991Z"
@@ -794,7 +784,37 @@
       "url": "https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc",
       "title": "Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC",
       "sentAt": "2026-03-10T03:24:00.725Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/was-ethereum-ultrasound-money-mistake-eth-btc-down-60-since-pos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Was Ethereum 'ultrasound money' a mistake? ETH down 65% vs. BTC since pivot",
+      "sentAt": "2026-03-11T03:23:58.605Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitgo-partners-with-stablex-to-support-stablecoin-infrastructure-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "BitGo to custody digital assets for StableX’s $100M stablecoin plan",
+      "sentAt": "2026-03-11T03:23:58.605Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/10/slumping-strategy-and-strive-started-with-buy-ratings-at-b-riley",
+      "title": "Slumping Strategy and Strive started with buy ratings at B. Riley",
+      "sentAt": "2026-03-11T03:23:58.605Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-hits-71-5k-local-high-analyst-bears-stepping-in-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin hits $71.5K+ local high as analyst sees bears 'stepping in' soon",
+      "sentAt": "2026-03-11T03:23:58.605Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoiner-arthur-hayes-hesitant-buying-btc-federal-reserve-monetary-stance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin permabull Arthur Hayes says he wouldn't bet $1 on BTC right now",
+      "sentAt": "2026-03-11T03:23:58.605Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
+      "sentAt": "2026-03-11T03:23:58.605Z"
     }
   ],
-  "lastUpdated": "2026-03-10T03:24:00.726Z"
+  "lastUpdated": "2026-03-11T03:23:58.605Z"
 }
