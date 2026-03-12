@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/federal-reserve-gradual-print-lyn-alden?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Federal Reserve entering 'gradual print' mode — Lyn Alden",
-      "sentAt": "2026-02-09T03:38:46.991Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/bitcoin-holders-sell-245k-btc-in-tight-macro-conditions-did-the-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin holders sell 245K BTC in tight macro conditions: Did the market bottom?",
       "sentAt": "2026-02-10T03:47:19.447Z"
@@ -814,7 +809,62 @@
       "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
       "sentAt": "2026-03-11T03:23:58.605Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/11/stablecoins-won-t-get-any-kind-of-deposit-insurance-under-genius-rules-says-fdic-chief",
+      "title": "Stablecoins won't get any kind of deposit insurance under GENIUS rules, says FDIC chief",
+      "sentAt": "2026-03-12T03:30:31.586Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/11/european-central-bank-unveils-tokenized-finance-plan-to-bolster-eu-s-financial-autonomy",
+      "title": "European Central Bank unveils tokenized finance plan to bolster EU's financial autonomy",
+      "sentAt": "2026-03-12T03:30:31.586Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/11/strategy-s-strc-preferred-series-gets-usd50-million-investment-from-fellow-btc-treasury-company-strive",
+      "title": "Strategy's STRC preferred series gets $50 million investment from fellow BTC treasury company Strive",
+      "sentAt": "2026-03-12T03:30:31.586Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/11/bitcoin-reverses-overnight-losses-rising-to-above-usd70-000-as-oil-renews-decline",
+      "title": "Bitcoin reverses overnight losses, rising to above $70,000 as oil renews decline",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/03/11/bitcoin-stuck-under-usd70-000-as-investors-play-it-safe-before-u-s-inflation-report",
+      "title": "Bitcoin stuck under $70,000 as investors play it safe before U.S. inflation report",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/ecb-appia-roadmap-europe-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "ECB reveals Appia roadmap for central bank money in Europe’s tokenized markets",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/aave-capo-oracle-glitch-27m-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Aave wstETH glitch forces $27M in liquidations and compensation",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/strive-allocates-50m-of-treasury-to-strategy-s-strc-preferred-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Strive allocates $50M of treasury to Strategy’s STRC preferred stock",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/11/u-s-february-inflation-data-matches-forecasts-reinforcing-expectations-for-no-near-term-rate-cuts",
+      "title": "U.S. February CPI matches forecasts, reinforcing expectations for no near-term rate cuts",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/higher-cpi-print-march-baked-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Higher CPI print for March already 'baked in' to BTC price — Analysts",
+      "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-rebounds-flat-us-cpi-oil-price-cools-400m-barrel-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin rebounds on flat US CPI as oil price cools on 400M barrel release",
+      "sentAt": "2026-03-12T03:30:31.587Z"
     }
   ],
-  "lastUpdated": "2026-03-11T03:23:58.605Z"
+  "lastUpdated": "2026-03-12T03:30:31.587Z"
 }
