@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/bitcoin-holders-sell-245k-btc-in-tight-macro-conditions-did-the-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin holders sell 245K BTC in tight macro conditions: Did the market bottom?",
-      "sentAt": "2026-02-10T03:47:19.447Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/israel-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Israel crypto industry pushes regulatory changes amid strong public support",
-      "sentAt": "2026-02-10T03:47:19.447Z"
-    },
-    {
-      "url": "https://www.coindesk.com/news-analysis/2026/02/09/u-s-government-isn-t-poised-to-sweep-in-with-bitcoin-buys-despite-jim-cramer-rumor",
-      "title": "U.S. government isn't poised to sweep in with bitcoin buys, despite Jim Cramer rumor",
-      "sentAt": "2026-02-10T03:47:19.447Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitmine-buys-40-613-eth-during-sell-off-as-ether-strategy-faces-deep-drawdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BitMine buys 40,613 ETH during sell-off as Ether strategy faces deep drawdown",
-      "sentAt": "2026-02-10T03:47:19.447Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/french-police-arrest-six-suspects-over-crypto-ransom-kidnapping-of-magistrate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "France arrests six suspects over crypto ransom kidnapping of magistrate",
-      "sentAt": "2026-02-10T03:47:19.447Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/state-street-us-dollar-decline-fed-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "State Street warns dollar could fall 10% if Fed cuts more than expected",
       "sentAt": "2026-02-11T03:44:55.158Z"
@@ -864,7 +839,47 @@
       "url": "https://cointelegraph.com/news/bitcoin-rebounds-flat-us-cpi-oil-price-cools-400m-barrel-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin rebounds on flat US CPI as oil price cools on 400M barrel release",
       "sentAt": "2026-03-12T03:30:31.587Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/us-senate-votes-cbdc-ban-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Senate votes to include CBDC ban in bipartisan housing bill",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/is-bitcoin-price-at-risk-if-private-credit-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Is Bitcoin price at risk if private credit breaks?",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/us-treasury-sanctions-north-korea-it-worker-crypto-fraud-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Treasury sanctions enablers of North Korea IT worker fraud ring",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/12/bitcoin-holds-usd70-000-level-as-surging-oil-prices-and-credit-issues-have-stocks-tumbling",
+      "title": "Bitcoin holds $70,000 level as surging oil prices and credit issues have stocks tumbling",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/12/bitcoin-climbs-to-near-usd72-000-after-treasury-secretary-bessent-attempts-to-calm-oil-fears",
+      "title": "Bitcoin climbs to near $72,000 after Treasury Secretary Bessent attempts to calm oil fears",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-hugs-70k-range-march-fed-rate-cut-odds-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin hugs $70K range as March Fed rate cut odds fall below 1%",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/why-ray-dalio-says-bitcoin-can-t-replace-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Why Ray Dalio says Bitcoin can’t replace gold",
+      "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/12/eightco-shares-jump-on-usd125-million-funding-commitment-investment-in-openai-beast-industries",
+      "title": "Eightco shares jump on $125 million funding commitment, investment in OpenAI, Beast Industries",
+      "sentAt": "2026-03-13T03:26:26.016Z"
     }
   ],
-  "lastUpdated": "2026-03-12T03:30:31.587Z"
+  "lastUpdated": "2026-03-13T03:26:26.016Z"
 }
