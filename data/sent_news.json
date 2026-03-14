@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/state-street-us-dollar-decline-fed-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "State Street warns dollar could fall 10% if Fed cuts more than expected",
-      "sentAt": "2026-02-11T03:44:55.158Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/02/10/bitcoin-remains-in-tight-range-near-usd70-000-ahead-of-wednesday-s-u-s-jobs-report",
-      "title": "Bitcoin remains in tight range under $70,000 ahead of Wednesday's U.S. jobs report",
-      "sentAt": "2026-02-11T03:44:55.158Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bank-of-england-selects-chainlink-for-synchronisation-lab-to-test-onchain-settlement-with-central-bank-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "UK Central Bank taps firms to test elements of distributed-ledger settlement infrastructure",
-      "sentAt": "2026-02-11T03:44:55.158Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/gemini-exit-tests-uk-crypto-hub-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Gemini exit a ‘blow for policymakers’ with UK crypto hub ambitions",
-      "sentAt": "2026-02-11T03:44:55.158Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/fed-waller-crypto-hype-fading-tradfi-tie-ins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Fed’s Waller says crypto hype ‘fading’ with TradFi tie-ins",
-      "sentAt": "2026-02-11T03:44:55.158Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/02/11/blackrock-takes-first-defi-step-lists-buidl-on-uniswap-as-uni-jumps-25",
       "title": "BlackRock takes first DeFi step, lists BUIDL on Uniswap as UNI jumps 25%",
       "sentAt": "2026-02-12T03:39:13.566Z"
@@ -879,7 +854,37 @@
       "url": "https://www.coindesk.com/business/2026/03/12/eightco-shares-jump-on-usd125-million-funding-commitment-investment-in-openai-beast-industries",
       "title": "Eightco shares jump on $125 million funding commitment, investment in OpenAI, Beast Industries",
       "sentAt": "2026-03-13T03:26:26.016Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea",
+      "title": "U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea",
+      "sentAt": "2026-03-14T03:23:53.531Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/13/court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-account-door",
+      "title": "Court closes Custodia fight with Federal Reserve just as Fed opens master-account door",
+      "sentAt": "2026-03-14T03:23:53.531Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-price-eyes-74k-rematch-us-pce-inflation-boosts-crypto-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price eyes $74K rematch as US PCE inflation boosts crypto, stocks",
+      "sentAt": "2026-03-14T03:23:53.531Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/uk-central-bank-stablecoin-industry-input-lacking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "UK central bank is warming up to stablecoins, but says industry input is lacking",
+      "sentAt": "2026-03-14T03:23:53.531Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/13/circle-overtakes-blackrock-in-tokenized-treasuries-as-market-hits-record-usd11-billion",
+      "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
+      "sentAt": "2026-03-14T03:23:53.531Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-holds-above-usd71-000-defying-rising-dollar-oil-and-u-s-bond-yields",
+      "title": "Bitcoin holds above $71,000, defying rising dollar, oil and U.S. bond yields",
+      "sentAt": "2026-03-14T03:23:53.531Z"
     }
   ],
-  "lastUpdated": "2026-03-13T03:26:26.016Z"
+  "lastUpdated": "2026-03-14T03:23:53.531Z"
 }
