@@ -1,61 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/02/11/blackrock-takes-first-defi-step-lists-buidl-on-uniswap-as-uni-jumps-25",
-      "title": "BlackRock takes first DeFi step, lists BUIDL on Uniswap as UNI jumps 25%",
-      "sentAt": "2026-02-12T03:39:13.566Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "sentAt": "2026-02-12T03:39:13.566Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "sentAt": "2026-02-12T03:39:13.566Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "sentAt": "2026-02-12T03:39:13.566Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-to-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Why Bitcoin has recently reacted more to liquidity conditions than to rate cuts",
-      "sentAt": "2026-02-12T03:39:13.566Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/02/11/u-s-added-stronger-than-expected-130-000-jobs-in-january-with-unemployment-rate-falling-to-4-3",
-      "title": "U.S. added stronger than expected 130,000 jobs in January, with unemployment rate falling to 4.3%",
-      "sentAt": "2026-02-12T03:39:13.566Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
-      "sentAt": "2026-02-13T03:37:27.694Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ncua-proposal-outlines-licensing-rules-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US credit union regulator proposes stablecoin licensing path",
-      "sentAt": "2026-02-13T03:37:27.694Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "sentAt": "2026-02-13T03:37:27.694Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/02/12/ark-invest-s-cathie-wood-says-bitcoin-will-thrive-amid-deflationary-chaos-created-by-ai-and-innovation",
-      "title": "Ark Invest's Cathie Wood says bitcoin will thrive amid ‘deflationary chaos’ created by AI and innovation",
-      "sentAt": "2026-02-13T03:37:27.694Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-02-12/gold-steadies-after-sharp-drop-sparked-by-wider-market-jitters",
-      "title": "Gold Rebounds After Sharp Drop Sparked by Wider Market Jitters",
-      "sentAt": "2026-02-13T03:37:27.694Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/bitcoin-dollar72k-target-possible-if-v-shaped-recovery-pattern-completes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin $72K target possible if V-shaped recovery pattern completes",
       "sentAt": "2026-02-14T03:25:57.354Z"
@@ -884,7 +829,17 @@
       "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-holds-above-usd71-000-defying-rising-dollar-oil-and-u-s-bond-yields",
       "title": "Bitcoin holds above $71,000, defying rising dollar, oil and U.S. bond yields",
       "sentAt": "2026-03-14T03:23:53.531Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes",
+      "title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
+      "sentAt": "2026-03-15T03:47:38.454Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal",
+      "title": "Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal",
+      "sentAt": "2026-03-15T03:47:38.454Z"
     }
   ],
-  "lastUpdated": "2026-03-14T03:23:53.531Z"
+  "lastUpdated": "2026-03-15T03:47:38.454Z"
 }
