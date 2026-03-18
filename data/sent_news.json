@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout",
-      "title": "Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout",
-      "sentAt": "2026-02-15T03:38:42.131Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "sentAt": "2026-02-15T03:38:42.131Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-02-14/is-trump-s-manufacturing-comeback-real-video",
-      "title": "Is Trump’s Manufacturing Comeback Real?",
-      "sentAt": "2026-02-15T03:38:42.131Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Institutions may get 'fed up' and fire Bitcoin devs over quantum: VC",
       "sentAt": "2026-02-16T03:37:19.216Z"
@@ -839,7 +824,42 @@
       "url": "https://cointelegraph.com/news/bitmine-buys-5-000-eth-from-ethereum-foundation-brings-holdings-to-4-6m-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitmine speeds pace of Ethereum buys, boosting treasury to 4.6M ETH",
       "sentAt": "2026-03-17T03:30:17.566Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/sec-interpretation-crypto-assets-not-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "SEC will consider most crypto assets not securities under federal law",
+      "sentAt": "2026-03-18T03:37:10.530Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting",
+      "title": "Bitcoin's rally faces key hurdle with Wednesday's Fed meeting",
+      "sentAt": "2026-03-18T03:37:10.530Z"
+    },
+    {
+      "url": "https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive",
+      "title": "Facing a crisis, Bitcoin treasury companies need to pivot to survive",
+      "sentAt": "2026-03-18T03:37:10.530Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
+      "title": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
+      "sentAt": "2026-03-18T03:37:10.530Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/17/ripple-looks-to-expand-crypto-and-payment-services-in-brazil",
+      "title": "Ripple looks to expand crypto and payment services in Brazil",
+      "sentAt": "2026-03-18T03:37:10.530Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/gsr-acquires-autonomous-architech-for-57m-to-build-crypto-capital-markets-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "GSR acquires Autonomous, Architech as it builds crypto capital markets platform",
+      "sentAt": "2026-03-18T03:37:10.530Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/theo-100m-vault-gold-linked-yield-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Theo closes $100M facility backing gold-linked yield stablecoin",
+      "sentAt": "2026-03-18T03:37:10.530Z"
     }
   ],
-  "lastUpdated": "2026-03-17T03:30:17.566Z"
+  "lastUpdated": "2026-03-18T03:37:10.530Z"
 }
