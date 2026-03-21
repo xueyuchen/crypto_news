@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/business/2026/02/17/stripe-s-stablecoin-firm-bridge-wins-initial-approval-of-national-bank-trust-charter",
-      "title": "Stripe's stablecoin firm Bridge wins initial approval of national bank trust charter",
-      "sentAt": "2026-02-18T03:34:41.652Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/macro-headwinds-test-bitcoin-price-as-dollar70k-crumbles-amid-us-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Macro headwinds test Bitcoin price as $70K crumbles amid US market volatility",
-      "sentAt": "2026-02-18T03:34:41.652Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/02/17/bitcoin-treasury-company-nakamoto-to-acquire-btc-inc-and-utxo-in-usd107-million-all-stock-deal",
-      "title": "Bitcoin treasury company Nakamoto to acquire BTC Inc and UTXO in $107 million all-stock deal",
-      "sentAt": "2026-02-18T03:34:41.652Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/02/17/bitmine-adds-usd90-million-in-eth-with-tom-lee-comparing-crypto-sentiment-to-2018-and-2022-bottoms",
-      "title": "BitMine adds $90 million in ETH — Tom Lee says crypto sentiment reminiscent of 2018 and 2022 bottoms ",
-      "sentAt": "2026-02-18T03:34:41.652Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/top-crypto-treasury-companies-strategy-and-bitmine-add-to-btc-eth-stacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Top crypto treasury companies Strategy and Bitmine add to BTC, ETH stacks",
-      "sentAt": "2026-02-18T03:34:41.652Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/modern-treasury-integrates-stablecoin-settlement-alongside-ach-and-wires?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Modern Treasury integrates stablecoin settlement alongside ACH and wires",
       "sentAt": "2026-02-19T03:33:50.264Z"
@@ -879,7 +854,32 @@
       "url": "https://www.coindesk.com/business/2026/03/19/xrp-treasury-firm-evernorth-discloses-usd233-7-million-impairment-on-holdings-in-spac-filing",
       "title": "XRP treasury firm Evernorth discloses $233.7 million impairment on holdings in SPAC filing",
       "sentAt": "2026-03-20T03:27:14.644Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "What happens to Bitcoin if oil price hits $180 per barrel?",
+      "sentAt": "2026-03-21T03:16:24.658Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price aims to hold $70K amid rising inflation concerns",
+      "sentAt": "2026-03-21T03:16:24.658Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-latest-fear-unlocked-as-rate-hikes-bets-rise-and-bond-markets-crumble",
+      "title": "Bitcoin's latest fear unlocked as rate hike bets rise and bond markets crumble",
+      "sentAt": "2026-03-21T03:16:24.658Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/20/ripple-s-survey-shows-banks-fintechs-and-corporates-are-all-in-on-digital-assets-prioritizing-stablecoins-and-custody",
+      "title": "Ripple data reveals stablecoins are becoming the go-to tool for corporate treasury",
+      "sentAt": "2026-03-21T03:16:24.658Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-03-20/pimco-s-forgash-says-market-complacent-spreads-to-rise-video",
+      "title": "Pimco's Forgash Sees Complacent Market, Expects Spreads to Rise",
+      "sentAt": "2026-03-21T03:16:24.658Z"
     }
   ],
-  "lastUpdated": "2026-03-20T03:27:14.644Z"
+  "lastUpdated": "2026-03-21T03:16:24.658Z"
 }
