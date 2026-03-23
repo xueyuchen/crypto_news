@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/wall-street-boosts-bitmine-stakes-defi-lenders-buckle-liquidity-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Wall Street boosts Bitmine stakes as DeFi lenders buckle on liquidity: Finance Redefined",
-      "sentAt": "2026-02-21T03:18:04.822Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/fed-neel-kashkari-lashes-crypto-and-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Fed’s Kashkari lashes crypto and stablecoins, praises AI",
-      "sentAt": "2026-02-21T03:18:04.822Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/btc-treasury-reform-1250-percent-risk-basel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BTC treasury executives call for reform of 1,250% risk weight in Basel III",
-      "sentAt": "2026-02-21T03:18:04.822Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video",
-      "title": "Fed's Preferred Inflation Gauge Comes In At 3% as Expected",
-      "sentAt": "2026-02-21T03:18:04.822Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/02/21/japan-s-sbi-to-issue-10-billion-yen-onchain-bond-with-xrp-rewards-for-retail-investors",
       "title": "Japan's SBI to issue 10 billion yen onchain bond with XRP rewards for retail investors",
       "sentAt": "2026-02-22T03:32:34.309Z"
@@ -844,7 +824,27 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm",
       "title": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
       "sentAt": "2026-03-22T03:35:54.643Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-22/-pandemonium-fuels-surge-in-yields-as-fed-rate-hike-bets-emerge",
+      "title": "Global Bond Yields Are Climbing as Iran War Upends Rate Bets",
+      "sentAt": "2026-03-23T03:40:42.049Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/20/gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend",
+      "title": "Gold falters as macro pressures build, bitcoin holds liquidity trend",
+      "sentAt": "2026-03-23T03:40:42.049Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/divergence-between-btc-gold-retail-central-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "BTC and gold divergence reflects split between retail and central banks: Analyst",
+      "sentAt": "2026-03-23T03:40:42.049Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-23/japan-bond-yields-near-multi-decade-highs-as-war-fuels-inflation",
+      "title": "Japan Bond Yields Near Multi-Decade Highs as War Fuels Inflation",
+      "sentAt": "2026-03-23T03:40:42.049Z"
     }
   ],
-  "lastUpdated": "2026-03-22T03:35:54.643Z"
+  "lastUpdated": "2026-03-23T03:40:42.049Z"
 }
