@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/gd-culture-board-bitcoin-treasury-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "GD Culture Group board authorizes Bitcoin treasury sales",
-      "sentAt": "2026-02-26T03:29:38.984Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/02/25/crypto-firm-with-a-u-s-bank-charter-adds-bitcoin-holder-strategy-stock-to-its-balance-sheet",
-      "title": "Crypto firm with U.S. bank charter holds bitcoin holder Strategy's preferred stock",
-      "sentAt": "2026-02-26T03:29:38.984Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Tokenized US Treasurys rise by over $1B since start of 2026",
-      "sentAt": "2026-02-26T03:29:38.984Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/fg-nexus-offloads-14m-in-eth-corporate-ethereum-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "FG Nexus sells another $14M in Ether as losses mount on treasury bet",
-      "sentAt": "2026-02-26T03:29:38.984Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/02/25/bitcoin-treasury-firm-gd-culture-set-to-sell-btc-holdings-to-fund-share-buybacks",
-      "title": "Bitcoin treasury firm GD Culture set to sell BTC holdings to fund share buybacks",
-      "sentAt": "2026-02-26T03:29:38.984Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bloomberg extends financial data to $25B tokenized markets via Kaiko",
       "sentAt": "2026-02-27T03:25:59.433Z"
@@ -899,7 +874,37 @@
       "url": "https://cointelegraph.com/news/twenty-one-2nd-largest-btc-holder-mara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Twenty One Capital now 2nd-largest publicly traded BTC holder after MARA sale",
       "sentAt": "2026-03-27T03:47:09.193Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-falls-below-usd68-000-as-10-year-treasury-yield-nears-1-year-high-of-4-5",
+      "title": "Bitcoin falls below $67,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5%",
+      "sentAt": "2026-03-28T03:32:51.341Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-macro-risks-spike-as-ukraine-throws-a-spanner-in-trump-s-plan-to-stabilize-oil-markets",
+      "title": "Bitcoin macro risks spike as Ukraine messes with Trump's plan to stabilize oil markets",
+      "sentAt": "2026-03-28T03:32:51.341Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-dips-under-66k-oil-sparks-unsustainable-inflation-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin dips under $66K as oil sparks 'unsustainable' US inflation risk",
+      "sentAt": "2026-03-28T03:32:51.341Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause",
+      "title": "Crypto edges off of worst levels after Trump extends Iran strike pause",
+      "sentAt": "2026-03-28T03:32:51.341Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/cathie-wood-ark-taps-kalshi-data-investment-decisions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Cathie Wood’s ARK taps Kalshi data to help make investment calls",
+      "sentAt": "2026-03-28T03:32:51.341Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-27/treasury-yields-reach-year-s-highs-as-iran-stalemate-lifts-oil",
+      "title": "Treasury Yields at Year’s High Lure Buyers, Snap Link to Oil",
+      "sentAt": "2026-03-28T03:32:51.341Z"
     }
   ],
-  "lastUpdated": "2026-03-27T03:47:09.193Z"
+  "lastUpdated": "2026-03-28T03:32:51.341Z"
 }
