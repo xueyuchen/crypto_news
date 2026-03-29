@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bloomberg extends financial data to $25B tokenized markets via Kaiko",
-      "sentAt": "2026-02-27T03:25:59.433Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says",
       "title": "Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit says",
       "sentAt": "2026-02-28T03:07:26.428Z"
@@ -904,7 +899,17 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-27/treasury-yields-reach-year-s-highs-as-iran-stalemate-lifts-oil",
       "title": "Treasury Yields at Year’s High Lure Buyers, Snap Link to Oil",
       "sentAt": "2026-03-28T03:32:51.341Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/28/why-bitcoin-s-compressed-valuation-offers-reduced-downside-risk-versus-stocks",
+      "title": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks",
+      "sentAt": "2026-03-29T03:52:13.702Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-28/india-says-iran-war-could-hit-growth-widen-fiscal-deficit",
+      "title": "India Says Iran War Could Hit Growth, Widen Fiscal Deficit",
+      "sentAt": "2026-03-29T03:52:13.702Z"
     }
   ],
-  "lastUpdated": "2026-03-28T03:32:51.341Z"
+  "lastUpdated": "2026-03-29T03:52:13.702Z"
 }
