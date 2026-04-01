@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/business/2026/03/01/buyouts-and-bitcoin-inside-the-messy-boardroom-fight-at-a-treasury-company-that-may-span-to-others",
-      "title": "Buyouts and bitcoin: Inside the messy boardroom fight at a treasury company that may span to others",
-      "sentAt": "2026-03-02T03:28:00.184Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-traders-eye-iran-reactions-oil-sparks-us-5-inflation-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin traders eye Iran reactions as oil sparks US 5% inflation forecast",
-      "sentAt": "2026-03-02T03:28:00.184Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/trump-media-considers-truth-social-spinout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Trump Media could spin out Truth Social amid crypto push",
-      "sentAt": "2026-03-02T03:28:00.184Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/strategy-raises-strc-dividend-11-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Strategy boosts monthly STRC preferred dividend to 11.5% for March 2026",
-      "sentAt": "2026-03-02T03:28:00.184Z"
-    },
-    {
       "url": "https://www.bloomberg.com/news/articles/2026-03-03/global-bonds-on-knife-edge-as-iran-war-revives-inflation-threat",
       "title": "Global Bonds on Knife-Edge as Iran War Revives Inflation Threat",
       "sentAt": "2026-03-03T03:30:04.092Z"
@@ -904,7 +884,17 @@
       "url": "https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back",
       "title": "Bitmine makes biggest ether purchase in 2026 while other digital asset treasuries pull back",
       "sentAt": "2026-03-31T03:47:43.017Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/31/david-bailey-s-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-btc",
+      "title": "David Bailey’s Nakamoto sells roughly 5% of its bitcoin holdings, offloading 284 BTC",
+      "sentAt": "2026-04-01T03:59:01.377Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/sp-tokenizes-treasury-index-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasurys index",
+      "sentAt": "2026-04-01T03:59:01.377Z"
     }
   ],
-  "lastUpdated": "2026-03-31T03:47:43.018Z"
+  "lastUpdated": "2026-04-01T03:59:01.377Z"
 }
