@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-03-03/global-bonds-on-knife-edge-as-iran-war-revives-inflation-threat",
-      "title": "Global Bonds on Knife-Edge as Iran War Revives Inflation Threat",
-      "sentAt": "2026-03-03T03:30:04.092Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase",
-      "title": "Tom Lee's Bitmine boosts ether holdings to 4.47 million tokens with  $98 million ETH purchase",
-      "sentAt": "2026-03-03T03:30:04.092Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/northern-trust-enters-tokenized-fund-race-with-blockchain-based-treasury-money-market-share-class?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Northern Trust enters tokenized Treasurys fund market with new share class",
-      "sentAt": "2026-03-03T03:30:04.092Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/procap-boosts-bitcoin-holdings-to-5-457-btc-aims-to-narrow-nav-discount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "ProCap boosts Bitcoin holdings to 5,457 BTC, aims to narrow NAV discount",
-      "sentAt": "2026-03-03T03:30:04.092Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-tailwinds-ai-prompts-easier-monetary-policy-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin to see tailwinds if AI prompts ‘easier monetary policy’: NYDIG",
-      "sentAt": "2026-03-03T03:30:04.092Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Stablecoins could weaken bank lending and monetary policy in Europe: ECB",
       "sentAt": "2026-03-04T03:23:41.047Z"
@@ -894,7 +869,27 @@
       "url": "https://cointelegraph.com/news/sp-tokenizes-treasury-index-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasurys index",
       "sentAt": "2026-04-01T03:59:01.377Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/fed-barr-calls-for-balanced-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Fed’s Barr backs stablecoin clarity but warns of run risks",
+      "sentAt": "2026-04-02T03:40:27.301Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/us-treasury-state-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Treasury seeks public input for state-level stablecoin regulations",
+      "sentAt": "2026-04-02T03:40:27.301Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/ripple-integrates-digital-assets-into-corporate-treasury-management-systems-embargo-april-1-10am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ripple adds digital asset support to treasury management platform",
+      "sentAt": "2026-04-02T03:40:27.301Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/nakamoto-sale-signal-dat-contagion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Nakamoto Bitcoin sale could signal industry-wide DAT contagion: Analyst",
+      "sentAt": "2026-04-02T03:40:27.301Z"
     }
   ],
-  "lastUpdated": "2026-04-01T03:59:01.377Z"
+  "lastUpdated": "2026-04-02T03:40:27.301Z"
 }
