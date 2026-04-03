@@ -1,41 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Stablecoins could weaken bank lending and monetary policy in Europe: ECB",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/03/bank-of-japan-expands-blockchain-settlement-sandbox-as-2026-cbdc-decision-nears",
-      "title": "Bank of Japan expands blockchain settlement sandbox and says CBDC efforts are ongoing",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
-      "url": "https://www.coindesk.com/daybook-us/2026/03/03/oil-shock-and-inflation-fears-drag-down-bitcoin",
-      "title": "Oil shock and inflation fears drag down bitcoin",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ripple-expands-institutional-stablecoin-payments-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Ripple expands stablecoin payments stack for banks, fintechs",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/where-i-come-from-bitcoin-is-money-says-africa-bitcoin-corp-chair-stafford-masie?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Locals prefer satoshis to dollars, says Africa Bitcoin chair Stafford Masie",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/strive-joe-burnett-ai-deflation-bitcoin-11m-2036-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Strive strategist says AI deflation could push Bitcoin to $11M by 2036",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/mara-bitcoin-sell-off-claims-fact-check-treasury-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "MARA exec pushes back on Bitcoin treasury sell-off narrative",
-      "sentAt": "2026-03-04T03:23:41.047Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/03/04/kraken-becomes-first-crypto-company-to-secure-fed-master-account-access-wsj",
       "title": "Kraken becomes first crypto company to secure Fed master account access",
       "sentAt": "2026-03-05T03:26:47.351Z"
@@ -889,7 +854,47 @@
       "url": "https://cointelegraph.com/news/nakamoto-sale-signal-dat-contagion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Nakamoto Bitcoin sale could signal industry-wide DAT contagion: Analyst",
       "sentAt": "2026-04-02T03:40:27.301Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/02/the-bitcoin-treasury-boom-is-unwinding-as-some-companies-and-governments-sell-holdings",
+      "title": "The bitcoin treasury boom is unwinding as some companies and governments sell holdings",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/02/coinbase-wins-initial-occ-nod-for-trust-charter-boosting-sustody-push",
+      "title": "Coinbase wins initial bank regulator nod for trust charter, boosting custody push",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/04/02/doj-sting-exposes-crypto-wash-trading-continues-to-be-far-more-common-than-expected",
+      "title": "The ‘wash trading’ bust: Why the feds are finally calling out crypto’s dirty little liquidity secret",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/04/02/beyond-t-bills-openeden-introduces-tokenized-high-yield-corporate-bond",
+      "title": "Beyond T-bills: OpenEden introduces tokenized high-yield corporate bond",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/04/02/ripple-treasury-puts-xrp-and-rlusd-inside-corporate-finance-for-the-first-time",
+      "title": "Ripple Treasury puts XRP and RLUSD inside corporate finance for the first time ",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/02/metaplanet-acquires-5-075-btc-jumps-to-third-largest-bitcoin-treasury-company",
+      "title": "Metaplanet acquires 5,075 BTC, jumps to third largest bitcoin treasury company",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/onchain-data-flags-fresh-riot-500-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Riot wallet outflow adds to selling wave among listed Bitcoin miners",
+      "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Metaplanet buys 5,075 Bitcoin in Q1 to become 3rd-largest treasury",
+      "sentAt": "2026-04-03T03:42:31.528Z"
     }
   ],
-  "lastUpdated": "2026-04-02T03:40:27.301Z"
+  "lastUpdated": "2026-04-03T03:42:31.529Z"
 }
