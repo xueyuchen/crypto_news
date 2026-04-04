@@ -1,46 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/business/2026/03/04/kraken-becomes-first-crypto-company-to-secure-fed-master-account-access-wsj",
-      "title": "Kraken becomes first crypto company to secure Fed master account access",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/kraken-crypto-exchange-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Kraken wins Kansas City Fed approval for limited master account access",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/donald-trump-fed-nomination-kevin-warsh-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Trump sends pro-Bitcoin Fed chair nomination to the Senate",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoins-bullish-momentum-accelerates-but-topping-78k-remains-a-challenge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin’s bullish momentum accelerates but topping $78K remains a challenge",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/crypto-treasury-inflow-slow-october-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Crypto treasury inflows slow to the lowest since October 2024",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/04/sui-s-native-stablecoin-goes-live-with-promise-of-treasury-yield-going-back-to-the-network",
-      "title": "Sui’s native stablecoin goes live with promise of Treasury yield going back to the network",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/why-peter-thiel-s-founders-fund-walked-away-from-an-ether-treasury-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Why Peter Thiel’s Founders Fund walked away from an Ether treasury bet",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/04/crypto-bulls-slam-ray-dalio-s-tired-narratives-in-defense-of-bitcoin-s-future",
-      "title": "Crypto bulls slam Ray Dalio's 'tired narratives' in defense of bitcoin's future",
-      "sentAt": "2026-03-05T03:26:47.351Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/03/05/u-s-judge-freezes-blockfills-assets-in-dispute-over-70-bitcoin-with-creditor-dominion-capital",
       "title": "U.S. judge freezes BlockFills assets in dispute over 70 bitcoin with creditor Dominion Capital",
       "sentAt": "2026-03-06T03:25:30.713Z"
@@ -894,7 +854,22 @@
       "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Metaplanet buys 5,075 Bitcoin in Q1 to become 3rd-largest treasury",
       "sentAt": "2026-04-03T03:42:31.528Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/corporate-bitcoin-strategy-vs-nakamoto-treasury-divide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto Biz: Bitcoin treasuries break ranks as BTC dips below $70K",
+      "sentAt": "2026-04-04T03:29:21.388Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target",
+      "title": "Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target ",
+      "sentAt": "2026-04-04T03:29:21.388Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-02/asian-equities-may-open-higher-after-us-rebound-markets-wrap",
+      "title": "Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap",
+      "sentAt": "2026-04-04T03:29:21.388Z"
     }
   ],
-  "lastUpdated": "2026-04-03T03:42:31.529Z"
+  "lastUpdated": "2026-04-04T03:29:21.388Z"
 }
