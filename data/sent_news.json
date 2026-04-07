@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/07/top-wall-street-minds-see-ai-rotation-ahead-as-bitcoin-seeks-role-in-new-cycle",
-      "title": "Top Wall Street minds see AI rotation ahead as bitcoin seeks role in new cycle",
-      "sentAt": "2026-03-08T03:27:51.316Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-btc-near-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Saylor signals another Bitcoin buy as BTC hovers near $66K",
       "sentAt": "2026-03-09T03:31:46.094Z"
@@ -749,7 +744,22 @@
       "url": "https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause",
       "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
       "sentAt": "2026-04-06T03:54:46.013Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/06/inflation-takes-center-stage-crypto-week-ahead",
+      "title": "Inflation takes center stage: Crypto Week Ahead",
+      "sentAt": "2026-04-07T03:45:50.623Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/oil-shock-sends-philippine-inflation-surging-to-20-month-high",
+      "title": "Oil Shock Sends Philippine Inflation Surging to 20-Month High",
+      "sentAt": "2026-04-07T03:45:50.623Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/06/bitmine-s-ether-treasury-hits-4-8-million-eth-as-stock-listing-moves-to-nyse",
+      "title": "Bitmine's ether treasury hits 4.8 million ETH as stock listing moves to NYSE",
+      "sentAt": "2026-04-07T03:45:50.623Z"
     }
   ],
-  "lastUpdated": "2026-04-06T03:54:46.013Z"
+  "lastUpdated": "2026-04-07T03:45:50.623Z"
 }
