@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-btc-near-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Saylor signals another Bitcoin buy as BTC hovers near $66K",
-      "sentAt": "2026-03-09T03:31:46.094Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/us-treasury-legitimate-use-crypto-mixer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US Treasury report acknowledges legitimate uses of crypto mixers",
-      "sentAt": "2026-03-09T03:31:46.094Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/08/tokenized-assets-exceed-usd25-billion-after-nearly-quadrupling-in-a-year",
-      "title": "Tokenized assets exceed $25 billion after nearly quadrupling in a year",
-      "sentAt": "2026-03-09T03:31:46.094Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal",
-      "title": "Bitcoin dip may not be over as whales sell into retail buying — a bearish signal",
-      "sentAt": "2026-03-09T03:31:46.094Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/cz-says-cexs-zero-motive-aid-terrorists-court-dismisses-binance-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "CZ says CEXs have ‘zero motive’ to aid terrorists as court dismisses terrorism case",
-      "sentAt": "2026-03-09T03:31:46.094Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months",
       "title": "Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months",
       "sentAt": "2026-03-10T03:24:00.725Z"
@@ -759,7 +734,27 @@
       "url": "https://www.coindesk.com/markets/2026/04/06/bitmine-s-ether-treasury-hits-4-8-million-eth-as-stock-listing-moves-to-nyse",
       "title": "Bitmine's ether treasury hits 4.8 million ETH as stock listing moves to NYSE",
       "sentAt": "2026-04-07T03:45:50.623Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/07/stablecoin-issuers-get-closer-to-u-s-federal-rules-with-fdic-s-new-proposal",
+      "title": "Stablecoin issuers get closer to U.S. federal rules with FDIC's new proposal ",
+      "sentAt": "2026-04-08T03:48:06.113Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-etf-inflows-hit-highest-level-since-february",
+      "title": "Bitcoin ETF inflows hit highest level since February",
+      "sentAt": "2026-04-08T03:48:06.114Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/dats-liquid-staking-outperform-eth-staking-etfs-lido?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ether treasuries need liquid staking edge to beat ETFs, says Lido exec",
+      "sentAt": "2026-04-08T03:48:06.114Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/argentine-banks-test-jpm-coin-crypto-dollar-jpmorgan-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Argentine banks testing JPMorgan’s JPM Coin to speed up settlements: Report",
+      "sentAt": "2026-04-08T03:48:06.114Z"
     }
   ],
-  "lastUpdated": "2026-04-07T03:45:50.623Z"
+  "lastUpdated": "2026-04-08T03:48:06.114Z"
 }
