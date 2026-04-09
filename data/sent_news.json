@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/09/bitcoin-could-be-the-big-winner-if-the-u-s-iran-conflict-drags-on-for-months",
-      "title": "Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months",
-      "sentAt": "2026-03-10T03:24:00.725Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/03/09/u-s-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses",
-      "title": "U.S. Treasury signals shift on crypto mixers, acknowledges legitimate privacy uses",
-      "sentAt": "2026-03-10T03:24:00.725Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-67k-oil-shock-strongest-indicator-bottom-may-be-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin at $67K despite oil shock is ‘strongest indicator’ bottom may be in",
-      "sentAt": "2026-03-10T03:24:00.725Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
-      "title": "U.S. inflation, Polkadot upgrade, Solstice-Kamino announcement: Crypto Week Ahead",
-      "sentAt": "2026-03-10T03:24:00.725Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/nigel-farage-stack-btc-investment-uk-crypto-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Nigel Farage invests $286K in UK Bitcoin treasury company Stack BTC",
-      "sentAt": "2026-03-10T03:24:00.725Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/09/nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc",
-      "title": "Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC",
-      "sentAt": "2026-03-10T03:24:00.725Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/was-ethereum-ultrasound-money-mistake-eth-btc-down-60-since-pos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Was Ethereum 'ultrasound money' a mistake? ETH down 65% vs. BTC since pivot",
       "sentAt": "2026-03-11T03:23:58.605Z"
@@ -754,7 +724,22 @@
       "url": "https://cointelegraph.com/news/argentine-banks-test-jpm-coin-crypto-dollar-jpmorgan-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Argentine banks testing JPMorgan’s JPM Coin to speed up settlements: Report",
       "sentAt": "2026-04-08T03:48:06.114Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/08/u-s-treasury-to-propose-demands-that-stablecoin-firms-be-set-to-police-bad-transactions",
+      "title": "U.S. Treasury proposes demands that stablecoin firms be set to police bad transactions",
+      "sentAt": "2026-04-09T03:43:36.877Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/treasury-genius-act-rule-illicit-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Treasury moves forward with GENIUS Act, focusing on illicit finance",
+      "sentAt": "2026-04-09T03:43:36.877Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/sec-enforcement-director-questions-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US SEC taps new enforcement chief amid questions over predecessor's exit",
+      "sentAt": "2026-04-09T03:43:36.877Z"
     }
   ],
-  "lastUpdated": "2026-04-08T03:48:06.114Z"
+  "lastUpdated": "2026-04-09T03:43:36.877Z"
 }
