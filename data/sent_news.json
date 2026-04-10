@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/was-ethereum-ultrasound-money-mistake-eth-btc-down-60-since-pos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Was Ethereum 'ultrasound money' a mistake? ETH down 65% vs. BTC since pivot",
-      "sentAt": "2026-03-11T03:23:58.605Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitgo-partners-with-stablex-to-support-stablecoin-infrastructure-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BitGo to custody digital assets for StableX’s $100M stablecoin plan",
-      "sentAt": "2026-03-11T03:23:58.605Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/10/slumping-strategy-and-strive-started-with-buy-ratings-at-b-riley",
-      "title": "Slumping Strategy and Strive started with buy ratings at B. Riley",
-      "sentAt": "2026-03-11T03:23:58.605Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-hits-71-5k-local-high-analyst-bears-stepping-in-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin hits $71.5K+ local high as analyst sees bears 'stepping in' soon",
-      "sentAt": "2026-03-11T03:23:58.605Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoiner-arthur-hayes-hesitant-buying-btc-federal-reserve-monetary-stance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin permabull Arthur Hayes says he wouldn't bet $1 on BTC right now",
-      "sentAt": "2026-03-11T03:23:58.605Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
-      "sentAt": "2026-03-11T03:23:58.605Z"
-    },
-    {
       "url": "https://www.coindesk.com/policy/2026/03/11/stablecoins-won-t-get-any-kind-of-deposit-insurance-under-genius-rules-says-fdic-chief",
       "title": "Stablecoins won't get any kind of deposit insurance under GENIUS rules, says FDIC chief",
       "sentAt": "2026-03-12T03:30:31.586Z"
@@ -739,7 +709,47 @@
       "url": "https://cointelegraph.com/news/sec-enforcement-director-questions-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "US SEC taps new enforcement chief amid questions over predecessor's exit",
       "sentAt": "2026-04-09T03:43:36.877Z"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/08/crypto-for-advisors-crypto-s-performance-q1",
+      "title": "Crypto for Advisors: Crypto’s Performance Q1",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/us-treasury-cybersecurity-intel-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Treasury expands cybersecurity threat intel to crypto industry",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bessent-presses-congress-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bessent ramps up pressure on Congress to pass CLARITY Act",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
+      "title": "U.S. Treasury to loop in crypto sector on hacker warnings shared with traditional firms",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-price-surfs-us-pce-inflation-data-shifts-wartime-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price surfs US PCE inflation as trader keeps $80K BTC price target",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/09/td-cowen-says-these-3-crypto-stocks-could-actually-beat-bitcoin-etfs",
+      "title": "These 3 crypto stocks could actually beat bitcoin ETFs, says TD Cowen",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-rally-extends-toward-73k-despite-concerning-us-economic-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin rally extends toward $73K despite concerning US economic data",
+      "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/bond-traders-hedge-against-more-losses-as-inflation-data-looms",
+      "title": "Bond Traders Hedge Against More Losses as Inflation Data Looms",
+      "sentAt": "2026-04-10T03:57:31.898Z"
     }
   ],
-  "lastUpdated": "2026-04-09T03:43:36.877Z"
+  "lastUpdated": "2026-04-10T03:57:31.898Z"
 }
