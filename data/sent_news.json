@@ -1,61 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/policy/2026/03/11/stablecoins-won-t-get-any-kind-of-deposit-insurance-under-genius-rules-says-fdic-chief",
-      "title": "Stablecoins won't get any kind of deposit insurance under GENIUS rules, says FDIC chief",
-      "sentAt": "2026-03-12T03:30:31.586Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/11/european-central-bank-unveils-tokenized-finance-plan-to-bolster-eu-s-financial-autonomy",
-      "title": "European Central Bank unveils tokenized finance plan to bolster EU's financial autonomy",
-      "sentAt": "2026-03-12T03:30:31.586Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/11/strategy-s-strc-preferred-series-gets-usd50-million-investment-from-fellow-btc-treasury-company-strive",
-      "title": "Strategy's STRC preferred series gets $50 million investment from fellow BTC treasury company Strive",
-      "sentAt": "2026-03-12T03:30:31.586Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/11/bitcoin-reverses-overnight-losses-rising-to-above-usd70-000-as-oil-renews-decline",
-      "title": "Bitcoin reverses overnight losses, rising to above $70,000 as oil renews decline",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://www.coindesk.com/daybook-us/2026/03/11/bitcoin-stuck-under-usd70-000-as-investors-play-it-safe-before-u-s-inflation-report",
-      "title": "Bitcoin stuck under $70,000 as investors play it safe before U.S. inflation report",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ecb-appia-roadmap-europe-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "ECB reveals Appia roadmap for central bank money in Europe’s tokenized markets",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/aave-capo-oracle-glitch-27m-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Aave wstETH glitch forces $27M in liquidations and compensation",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/strive-allocates-50m-of-treasury-to-strategy-s-strc-preferred-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Strive allocates $50M of treasury to Strategy’s STRC preferred stock",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/11/u-s-february-inflation-data-matches-forecasts-reinforcing-expectations-for-no-near-term-rate-cuts",
-      "title": "U.S. February CPI matches forecasts, reinforcing expectations for no near-term rate cuts",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/higher-cpi-print-march-baked-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Higher CPI print for March already 'baked in' to BTC price — Analysts",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-rebounds-flat-us-cpi-oil-price-cools-400m-barrel-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin rebounds on flat US CPI as oil price cools on 400M barrel release",
-      "sentAt": "2026-03-12T03:30:31.587Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/us-senate-votes-cbdc-ban-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "US Senate votes to include CBDC ban in bipartisan housing bill",
       "sentAt": "2026-03-13T03:26:26.016Z"
@@ -749,7 +694,67 @@
       "url": "https://www.bloomberg.com/news/articles/2026-04-09/bond-traders-hedge-against-more-losses-as-inflation-data-looms",
       "title": "Bond Traders Hedge Against More Losses as Inflation Data Looms",
       "sentAt": "2026-04-10T03:57:31.898Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
+      "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-hits-73k-as-cool-us-cpi-data-shows-60-year-record-gas-price-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin hits $73K as cool US CPI data shows 60-year record gas price hike",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/04/10/xrp-adjacent-flare-proposes-protocol-level-mev-capture-and-40-inflation-cut",
+      "title": "XRP adjacent Flare proposes protocol-level MEV capture and 40% inflation cut",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march",
+      "title": "Bitcoin gains after core CPI rose a less-than-forecast 0.2% in March.",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/10/bitcoin-flatlines-as-inflation-data-looms-bittensor-drama-unfolds",
+      "title": "Bitcoin holds steady as inflation data looms, bittensor drama unfolds",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help",
+      "title": "Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/cpi-april-interest-rate-cuts-unlikely?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US CPI comes in lower than expected, but April rate cut still unlikely",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-04-10/wall-street-week-iran-oil-fallout-video",
+      "title": "Wall Street Week | Iran Oil Fallout",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-10/us-stocks-seven-day-rally-stalls-ahead-of-cpi-us-iran-talks",
+      "title": "US Stocks Post Best Weekly Gain This Year Ahead of US-Iran Talks",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split",
+      "title": "David Bailey’s bitcoin holder Nakamoto is trying to stay on Nasdaq with a reverse stock split",
+      "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://cointelegraph.com/learn/articles/fake-coindcx-website-fraud-case-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "The fake website that led to an arrest: Inside the CoinDCX impersonation case",
+      "sentAt": "2026-04-11T03:34:25.779Z"
     }
   ],
-  "lastUpdated": "2026-04-10T03:57:31.898Z"
+  "lastUpdated": "2026-04-11T03:34:25.779Z"
 }
