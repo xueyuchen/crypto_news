@@ -1,46 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/us-senate-votes-cbdc-ban-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US Senate votes to include CBDC ban in bipartisan housing bill",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/is-bitcoin-price-at-risk-if-private-credit-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Is Bitcoin price at risk if private credit breaks?",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/us-treasury-sanctions-north-korea-it-worker-crypto-fraud-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US Treasury sanctions enablers of North Korea IT worker fraud ring",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/12/bitcoin-holds-usd70-000-level-as-surging-oil-prices-and-credit-issues-have-stocks-tumbling",
-      "title": "Bitcoin holds $70,000 level as surging oil prices and credit issues have stocks tumbling",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/12/bitcoin-climbs-to-near-usd72-000-after-treasury-secretary-bessent-attempts-to-calm-oil-fears",
-      "title": "Bitcoin climbs to near $72,000 after Treasury Secretary Bessent attempts to calm oil fears",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-hugs-70k-range-march-fed-rate-cut-odds-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin hugs $70K range as March Fed rate cut odds fall below 1%",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/why-ray-dalio-says-bitcoin-can-t-replace-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Why Ray Dalio says Bitcoin can’t replace gold",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/12/eightco-shares-jump-on-usd125-million-funding-commitment-investment-in-openai-beast-industries",
-      "title": "Eightco shares jump on $125 million funding commitment, investment in OpenAI, Beast Industries",
-      "sentAt": "2026-03-13T03:26:26.016Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea",
       "title": "U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea",
       "sentAt": "2026-03-14T03:23:53.531Z"
@@ -754,7 +714,17 @@
       "url": "https://cointelegraph.com/learn/articles/fake-coindcx-website-fraud-case-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "The fake website that led to an arrest: Inside the CoinDCX impersonation case",
       "sentAt": "2026-04-11T03:34:25.779Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
+      "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play ",
+      "sentAt": "2026-04-12T03:59:24.746Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
+      "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
+      "sentAt": "2026-04-12T03:59:24.746Z"
     }
   ],
-  "lastUpdated": "2026-04-11T03:34:25.779Z"
+  "lastUpdated": "2026-04-12T03:59:24.747Z"
 }
