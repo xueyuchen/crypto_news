@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea",
-      "title": "U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea",
-      "sentAt": "2026-03-14T03:23:53.531Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/03/13/court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-account-door",
-      "title": "Court closes Custodia fight with Federal Reserve just as Fed opens master-account door",
-      "sentAt": "2026-03-14T03:23:53.531Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-price-eyes-74k-rematch-us-pce-inflation-boosts-crypto-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin price eyes $74K rematch as US PCE inflation boosts crypto, stocks",
-      "sentAt": "2026-03-14T03:23:53.531Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/uk-central-bank-stablecoin-industry-input-lacking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "UK central bank is warming up to stablecoins, but says industry input is lacking",
-      "sentAt": "2026-03-14T03:23:53.531Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/13/circle-overtakes-blackrock-in-tokenized-treasuries-as-market-hits-record-usd11-billion",
-      "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
-      "sentAt": "2026-03-14T03:23:53.531Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-holds-above-usd71-000-defying-rising-dollar-oil-and-u-s-bond-yields",
-      "title": "Bitcoin holds above $71,000, defying rising dollar, oil and U.S. bond yields",
-      "sentAt": "2026-03-14T03:23:53.531Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes",
       "title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
       "sentAt": "2026-03-15T03:47:38.454Z"
@@ -724,7 +694,27 @@
       "url": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
       "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
       "sentAt": "2026-04-12T03:59:24.746Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/ecb-backs-plan-esma-crypto-supervision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "EU central bank backs plan for crypto supervision under EU markets watchdog",
+      "sentAt": "2026-04-13T04:16:55.216Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/ether-machine-spac-ethm-cancelled-dynamix-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions",
+      "sentAt": "2026-04-13T04:16:55.216Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-04-13/why-money-managers-are-looking-through-iran-conflict-video",
+      "title": "Why Money Managers Are 'Looking Through' Iran Conflict",
+      "sentAt": "2026-04-13T04:16:55.216Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/btc-fragile-iran-fallout-dominate-markets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "BTC recovery fragile, Iran war fallout to 'dominate' markets in 2026: Analyst",
+      "sentAt": "2026-04-13T04:16:55.216Z"
     }
   ],
-  "lastUpdated": "2026-04-12T03:59:24.747Z"
+  "lastUpdated": "2026-04-13T04:16:55.216Z"
 }
