@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes",
-      "title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
-      "sentAt": "2026-03-15T03:47:38.454Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal",
-      "title": "Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal",
-      "sentAt": "2026-03-15T03:47:38.454Z"
-    },
-    {
       "url": "https://www.bloomberg.com/news/articles/2026-03-16/china-s-economy-gets-off-to-better-than-forecast-start-to-year",
       "title": "China’s Economy Shows Surprise Rebound Even as War Risks Spread",
       "sentAt": "2026-03-16T03:51:47.790Z"
@@ -714,7 +704,27 @@
       "url": "https://cointelegraph.com/news/btc-fragile-iran-fallout-dominate-markets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "BTC recovery fragile, Iran war fallout to 'dominate' markets in 2026: Analyst",
       "sentAt": "2026-04-13T04:16:55.216Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/crypto-etp-1-1-billion-inflows-strongest-gains-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto ETPs see $1.1B inflows, strongest gains since January",
+      "sentAt": "2026-04-14T03:58:08.076Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/ecb-tokenized-eu-markets-central-bank-money-anchor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "ECB backs tokenized EU capital markets with strict guardrails",
+      "sentAt": "2026-04-14T03:58:08.076Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-s-struggle-to-build-long-lasting-uptrend-remain-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin's struggle to build long-lasting uptrend remain: Here’s why",
+      "sentAt": "2026-04-14T03:58:08.076Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/nigel-farage-backed-stack-btc-acquires-2-7m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Nigel Farage-backed Stack BTC adds $2.7M in Bitcoin to treasury",
+      "sentAt": "2026-04-14T03:58:08.076Z"
     }
   ],
-  "lastUpdated": "2026-04-13T04:16:55.216Z"
+  "lastUpdated": "2026-04-14T03:58:08.076Z"
 }
