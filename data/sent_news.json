@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/china-s-economy-gets-off-to-better-than-forecast-start-to-year",
-      "title": "China’s Economy Shows Surprise Rebound Even as War Risks Spread",
-      "sentAt": "2026-03-16T03:51:47.790Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ethereum-foundation-sells-eth-to-bitmine-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Ethereum Foundation sells $10.2M worth of ETH to BitMine in OTC deal",
-      "sentAt": "2026-03-16T03:51:47.790Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/aave-roll-out-aave-shield-after-50m-user-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Aave to launch 'Aave Shield' after $50M token swap mishap",
-      "sentAt": "2026-03-16T03:51:47.790Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/03/16/bitmine-buys-60-999-ether-as-tom-lee-touts-crypto-strength-amid-iran-war",
       "title": "Bitmine buys 60,999 ether as Tom Lee touts crypto strength amid Iran war",
       "sentAt": "2026-03-17T03:30:17.566Z"
@@ -724,7 +709,37 @@
       "url": "https://cointelegraph.com/news/nigel-farage-backed-stack-btc-acquires-2-7m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Nigel Farage-backed Stack BTC adds $2.7M in Bitcoin to treasury",
       "sentAt": "2026-04-14T03:58:08.076Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-hits-dollar76k-after-us-ppi-inflation-stays-tame-will-btc-hold-its-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin hits $76K after US PPI inflation stays tame: Will BTC hold its gains?",
+      "sentAt": "2026-04-15T03:57:33.340Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-s-brief-rally-to-dollar76k-may-have-been-a-bull-trap-here-s-the-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin’s brief rally to $76K may have been a bull trap: Here’s the data",
+      "sentAt": "2026-04-15T03:57:33.340Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/xrpl-taps-boundless-for-bank-grade-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "XRP Ledger taps Boundless for bank-grade privacy on public blockchains",
+      "sentAt": "2026-04-15T03:57:33.340Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/14/bank-of-korea-nominee-backs-central-bank-led-digital-currency-sees-limited-role-for-stablecoins",
+      "title": "Bank of Korea nominee backs central bank-led digital currency, sees limited role for stablecoins ",
+      "sentAt": "2026-04-15T03:57:33.340Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it",
+      "title": "The next Fed chair has crypto exposure in his portfolio. Here are the details",
+      "sentAt": "2026-04-15T03:57:33.340Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/federal-reserve-chair-nominee-discloses-holdings-in-crypto-and-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Federal Reserve chair nominee's disclosure includes crypto and AI holdings",
+      "sentAt": "2026-04-15T03:57:33.340Z"
     }
   ],
-  "lastUpdated": "2026-04-14T03:58:08.076Z"
+  "lastUpdated": "2026-04-15T03:57:33.340Z"
 }
