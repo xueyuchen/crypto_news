@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "What happens to Bitcoin if oil price hits $180 per barrel?",
-      "sentAt": "2026-03-21T03:16:24.658Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin price aims to hold $70K amid rising inflation concerns",
-      "sentAt": "2026-03-21T03:16:24.658Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-latest-fear-unlocked-as-rate-hikes-bets-rise-and-bond-markets-crumble",
-      "title": "Bitcoin's latest fear unlocked as rate hike bets rise and bond markets crumble",
-      "sentAt": "2026-03-21T03:16:24.658Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/20/ripple-s-survey-shows-banks-fintechs-and-corporates-are-all-in-on-digital-assets-prioritizing-stablecoins-and-custody",
-      "title": "Ripple data reveals stablecoins are becoming the go-to tool for corporate treasury",
-      "sentAt": "2026-03-21T03:16:24.658Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-03-20/pimco-s-forgash-says-market-complacent-spreads-to-rise-video",
-      "title": "Pimco's Forgash Sees Complacent Market, Expects Spreads to Rise",
-      "sentAt": "2026-03-21T03:16:24.658Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/bitcoin-options-signal-fear-even-as-btc-etf-outflows-remain-relatively-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin options signal fear even as BTC ETF outflows remain relatively low",
       "sentAt": "2026-03-22T03:35:54.643Z"
@@ -654,7 +629,12 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-18/hank-paulson-on-iran-war-inflation-and-market-risk-video",
       "title": "Hank Paulson on Iran War, Inflation, and Market Risk",
       "sentAt": "2026-04-19T04:11:31.392Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security",
+      "sentAt": "2026-04-20T04:16:27.073Z"
     }
   ],
-  "lastUpdated": "2026-04-19T04:11:31.392Z"
+  "lastUpdated": "2026-04-20T04:16:27.073Z"
 }
