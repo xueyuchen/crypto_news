@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-03-22/-pandemonium-fuels-surge-in-yields-as-fed-rate-hike-bets-emerge",
-      "title": "Global Bond Yields Are Climbing as Iran War Upends Rate Bets",
-      "sentAt": "2026-03-23T03:40:42.049Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/20/gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend",
-      "title": "Gold falters as macro pressures build, bitcoin holds liquidity trend",
-      "sentAt": "2026-03-23T03:40:42.049Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/divergence-between-btc-gold-retail-central-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BTC and gold divergence reflects split between retail and central banks: Analyst",
-      "sentAt": "2026-03-23T03:40:42.049Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-03-23/japan-bond-yields-near-multi-decade-highs-as-war-fuels-inflation",
-      "title": "Japan Bond Yields Near Multi-Decade Highs as War Fuels Inflation",
-      "sentAt": "2026-03-23T03:40:42.049Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/sec-crypto-interpretation-laws-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "SEC sends proposed crypto interpretation to White House for review",
       "sentAt": "2026-03-24T03:32:21.306Z"
@@ -629,7 +609,27 @@
       "url": "https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026",
       "title": "Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026",
       "sentAt": "2026-04-21T04:08:49.687Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Philippines SEC flags dYdX, six crypto platforms as unauthorized",
+      "sentAt": "2026-04-22T03:56:55.967Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates",
+      "title": "Bitcoin slides toward $75,000 amid Warsh hearing, stalling U.S.-Iran talks",
+      "sentAt": "2026-04-22T03:56:55.967Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/kevin-warsh-fed-hearing-conflicts-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Fed chair nominee pressed on potential conflicts of interest, independence",
+      "sentAt": "2026-04-22T03:56:55.967Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/fraudsters-pose-iranian-authorities-crypto-stranded-ships-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Scammers demand crypto from stranded ships in Strait of Hormuz: Report",
+      "sentAt": "2026-04-22T03:56:55.967Z"
     }
   ],
-  "lastUpdated": "2026-04-21T04:08:49.687Z"
+  "lastUpdated": "2026-04-22T03:56:55.967Z"
 }
