@@ -1,41 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/26/michael-saylor-s-strategy-dominates-dat-bitcoin-buying-as-treasury-demand-collapses",
-      "title": "Bitcoin DAT trade is concentrating in Michael Saylor’s Strategy as treasury demand fades elsewhere",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Ether needs these 3 indicators to flip to trigger rally above $2.4K",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-floor-near-dollar70k-as-tradfi-returns-will-war-inflation-break-their-belief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin floor ‘near $70K’ as TradFi returns: Will war, inflation break their belief?",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/us-lawmaker-questions-kraken-fed-master-account-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US lawmaker presses Kansas Fed over Kraken master account approval",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/active-treasury-dangerous-misnomer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "‘Active Treasury’ is a dangerous misnomer that must not be ignored",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin dips 3% as analysis says $70K BTC price 'not obviously bearish'",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/twenty-one-2nd-largest-btc-holder-mara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Twenty One Capital now 2nd-largest publicly traded BTC holder after MARA sale",
-      "sentAt": "2026-03-27T03:47:09.193Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-falls-below-usd68-000-as-10-year-treasury-yield-nears-1-year-high-of-4-5",
       "title": "Bitcoin falls below $67,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5%",
       "sentAt": "2026-03-28T03:32:51.341Z"
@@ -589,7 +554,12 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-24/fmr-fed-governor-betsy-duke-on-warsh-s-future-rates-video",
       "title": "Fmr. Fed Governor Betsy Duke on Warsh's Future, Rates",
       "sentAt": "2026-04-25T03:49:08.325Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/what-the-fed-can-do-about-anthropic-s-latest-system-video",
+      "title": "What the Fed Can Do About Anthropic’s Latest System\n",
+      "sentAt": "2026-04-26T04:19:46.507Z"
     }
   ],
-  "lastUpdated": "2026-04-25T03:49:08.325Z"
+  "lastUpdated": "2026-04-26T04:19:46.507Z"
 }
