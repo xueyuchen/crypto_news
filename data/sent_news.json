@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-falls-below-usd68-000-as-10-year-treasury-yield-nears-1-year-high-of-4-5",
-      "title": "Bitcoin falls below $67,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5%",
-      "sentAt": "2026-03-28T03:32:51.341Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-macro-risks-spike-as-ukraine-throws-a-spanner-in-trump-s-plan-to-stabilize-oil-markets",
-      "title": "Bitcoin macro risks spike as Ukraine messes with Trump's plan to stabilize oil markets",
-      "sentAt": "2026-03-28T03:32:51.341Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-dips-under-66k-oil-sparks-unsustainable-inflation-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin dips under $66K as oil sparks 'unsustainable' US inflation risk",
-      "sentAt": "2026-03-28T03:32:51.341Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause",
-      "title": "Crypto edges off of worst levels after Trump extends Iran strike pause",
-      "sentAt": "2026-03-28T03:32:51.341Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/cathie-wood-ark-taps-kalshi-data-investment-decisions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Cathie Wood’s ARK taps Kalshi data to help make investment calls",
-      "sentAt": "2026-03-28T03:32:51.341Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-03-27/treasury-yields-reach-year-s-highs-as-iran-stalemate-lifts-oil",
-      "title": "Treasury Yields at Year’s High Lure Buyers, Snap Link to Oil",
-      "sentAt": "2026-03-28T03:32:51.341Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/03/28/why-bitcoin-s-compressed-valuation-offers-reduced-downside-risk-versus-stocks",
       "title": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks",
       "sentAt": "2026-03-29T03:52:13.702Z"
@@ -559,7 +529,12 @@
       "url": "https://www.bloomberg.com/news/videos/2026-04-25/what-the-fed-can-do-about-anthropic-s-latest-system-video",
       "title": "What the Fed Can Do About Anthropic’s Latest System\n",
       "sentAt": "2026-04-26T04:19:46.507Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
+      "sentAt": "2026-04-27T04:26:53.734Z"
     }
   ],
-  "lastUpdated": "2026-04-26T04:19:46.507Z"
+  "lastUpdated": "2026-04-27T04:26:53.734Z"
 }
