@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/28/why-bitcoin-s-compressed-valuation-offers-reduced-downside-risk-versus-stocks",
-      "title": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks",
-      "sentAt": "2026-03-29T03:52:13.702Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-03-28/india-says-iran-war-could-hit-growth-widen-fiscal-deficit",
-      "title": "India Says Iran War Could Hit Growth, Widen Fiscal Deficit",
-      "sentAt": "2026-03-29T03:52:13.702Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/03/30/rate-hike-bets-are-building-for-the-fed-and-now-the-bank-of-japan-too",
       "title": "Rate hike bets are building for the Fed – and now the Bank of Japan too",
       "sentAt": "2026-03-31T03:47:43.017Z"
@@ -534,7 +524,27 @@
       "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
       "sentAt": "2026-04-27T04:26:53.734Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
+      "title": "Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value'",
+      "sentAt": "2026-04-28T04:30:40.055Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/blackrock-says-higher-government-bond-yields-are-here-to-stay",
+      "title": "BlackRock Says Higher Government Bond Yields Are Here to Stay",
+      "sentAt": "2026-04-28T04:30:40.055Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
+      "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
+      "sentAt": "2026-04-28T04:30:40.055Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "BitMine acquires 101,000 ETH despite $6.5B in unrealized losses",
+      "sentAt": "2026-04-28T04:30:40.055Z"
     }
   ],
-  "lastUpdated": "2026-04-27T04:26:53.734Z"
+  "lastUpdated": "2026-04-28T04:30:40.055Z"
 }
