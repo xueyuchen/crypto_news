@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/03/31/david-bailey-s-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-btc",
-      "title": "David Bailey’s Nakamoto sells roughly 5% of its bitcoin holdings, offloading 284 BTC",
-      "sentAt": "2026-04-01T03:59:01.377Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/sp-tokenizes-treasury-index-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasurys index",
-      "sentAt": "2026-04-01T03:59:01.377Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/fed-barr-calls-for-balanced-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Fed’s Barr backs stablecoin clarity but warns of run risks",
       "sentAt": "2026-04-02T03:40:27.301Z"
@@ -584,7 +574,42 @@
       "url": "https://cointelegraph.com/news/aptos-says-its-new-privacy-coin-prevents-wallet-profiling-targeted-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Aptos says its new privacy coin seeks to fix one of crypto’s biggest trade-offs",
       "sentAt": "2026-04-30T04:29:29.061Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-faces-usd80-000-resistance-as-derivatives-shows-signs-of-risk-aversion",
+      "title": "Bitcoin faces $80,000 resistance as derivatives show signs of risk aversion",
+      "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
+      "title": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
+      "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022",
+      "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Meta rolls out stablecoin payouts for creators in Philippines, Colombia",
+      "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high",
+      "title": "Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high",
+      "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
+      "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US seized $500M in Iranian crypto assets, Treasury secretary says",
+      "sentAt": "2026-05-01T04:45:01.321Z"
     }
   ],
-  "lastUpdated": "2026-04-30T04:29:29.061Z"
+  "lastUpdated": "2026-05-01T04:45:01.321Z"
 }
