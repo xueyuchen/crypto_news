@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/fed-barr-calls-for-balanced-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Fed’s Barr backs stablecoin clarity but warns of run risks",
-      "sentAt": "2026-04-02T03:40:27.301Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/us-treasury-state-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US Treasury seeks public input for state-level stablecoin regulations",
-      "sentAt": "2026-04-02T03:40:27.301Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ripple-integrates-digital-assets-into-corporate-treasury-management-systems-embargo-april-1-10am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Ripple adds digital asset support to treasury management platform",
-      "sentAt": "2026-04-02T03:40:27.301Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/nakamoto-sale-signal-dat-contagion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Nakamoto Bitcoin sale could signal industry-wide DAT contagion: Analyst",
-      "sentAt": "2026-04-02T03:40:27.301Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/04/02/the-bitcoin-treasury-boom-is-unwinding-as-some-companies-and-governments-sell-holdings",
       "title": "The bitcoin treasury boom is unwinding as some companies and governments sell holdings",
       "sentAt": "2026-04-03T03:42:31.528Z"
@@ -609,7 +589,42 @@
       "url": "https://cointelegraph.com/news/us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "US seized $500M in Iranian crypto assets, Treasury secretary says",
       "sentAt": "2026-05-01T04:45:01.321Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/tokenized-rwa-market-cap-spiked-in-the-last-15-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tokenized RWA market grows 420% since 2025 on regulatory clarity, access",
+      "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/brazil-central-bank-bars-virtual-assets-from-cross-border-payment-service-efx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Brazil bars crypto settlement in regulated cross-border payment rails",
+      "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+      "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+      "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/crypto-biz-capital-has-no-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto Biz: Capital has no consensus",
+      "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/tether-reports-104-b-profit-in-q1-as-treasury-holdings-reach-141b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tether reports $1.04B profit in Q1 as Treasury holdings reach $141B",
+      "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoiner-launches-the-bitcoin-evidence-base-to-stamp-out-fud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoiners launch 'The Bitcoin Evidence Base' to stamp out FUD ",
+      "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
+      "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
+      "sentAt": "2026-05-02T04:15:56.566Z"
     }
   ],
-  "lastUpdated": "2026-05-01T04:45:01.321Z"
+  "lastUpdated": "2026-05-02T04:15:56.566Z"
 }
