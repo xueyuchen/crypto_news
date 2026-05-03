@@ -1,46 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/04/02/the-bitcoin-treasury-boom-is-unwinding-as-some-companies-and-governments-sell-holdings",
-      "title": "The bitcoin treasury boom is unwinding as some companies and governments sell holdings",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/04/02/coinbase-wins-initial-occ-nod-for-trust-charter-boosting-sustody-push",
-      "title": "Coinbase wins initial bank regulator nod for trust charter, boosting custody push",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/04/02/doj-sting-exposes-crypto-wash-trading-continues-to-be-far-more-common-than-expected",
-      "title": "The ‘wash trading’ bust: Why the feds are finally calling out crypto’s dirty little liquidity secret",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/04/02/beyond-t-bills-openeden-introduces-tokenized-high-yield-corporate-bond",
-      "title": "Beyond T-bills: OpenEden introduces tokenized high-yield corporate bond",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/04/02/ripple-treasury-puts-xrp-and-rlusd-inside-corporate-finance-for-the-first-time",
-      "title": "Ripple Treasury puts XRP and RLUSD inside corporate finance for the first time ",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/02/metaplanet-acquires-5-075-btc-jumps-to-third-largest-bitcoin-treasury-company",
-      "title": "Metaplanet acquires 5,075 BTC, jumps to third largest bitcoin treasury company",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/onchain-data-flags-fresh-riot-500-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Riot wallet outflow adds to selling wave among listed Bitcoin miners",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Metaplanet buys 5,075 Bitcoin in Q1 to become 3rd-largest treasury",
-      "sentAt": "2026-04-03T03:42:31.528Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/corporate-bitcoin-strategy-vs-nakamoto-treasury-divide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Crypto Biz: Bitcoin treasuries break ranks as BTC dips below $70K",
       "sentAt": "2026-04-04T03:29:21.388Z"
@@ -624,7 +584,12 @@
       "url": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
       "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
       "sentAt": "2026-05-02T04:15:56.566Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+      "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+      "sentAt": "2026-05-03T04:37:04.871Z"
     }
   ],
-  "lastUpdated": "2026-05-02T04:15:56.566Z"
+  "lastUpdated": "2026-05-03T04:37:04.871Z"
 }
