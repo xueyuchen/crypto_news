@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/corporate-bitcoin-strategy-vs-nakamoto-treasury-divide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Crypto Biz: Bitcoin treasuries break ranks as BTC dips below $70K",
-      "sentAt": "2026-04-04T03:29:21.388Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target",
-      "title": "Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target ",
-      "sentAt": "2026-04-04T03:29:21.388Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-02/asian-equities-may-open-higher-after-us-rebound-markets-wrap",
-      "title": "Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap",
-      "sentAt": "2026-04-04T03:29:21.388Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/rwanda-swats-bybit-p2p-platform-offering-franc-to-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Rwanda swats Bybit’s P2P platform offering franc-to-crypto trading",
       "sentAt": "2026-04-06T03:54:46.013Z"
@@ -589,7 +574,12 @@
       "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
       "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
       "sentAt": "2026-05-03T04:37:04.871Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/wallets-seized-by-ofac-may-not-be-iranian-other-state-actors-instead-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Wallets seized by OFAC may not be Iranian; other state actors instead: Analyst",
+      "sentAt": "2026-05-04T04:37:07.809Z"
     }
   ],
-  "lastUpdated": "2026-05-03T04:37:04.871Z"
+  "lastUpdated": "2026-05-04T04:37:07.810Z"
 }
