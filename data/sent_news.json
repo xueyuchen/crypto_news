@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/policy/2026/04/08/u-s-treasury-to-propose-demands-that-stablecoin-firms-be-set-to-police-bad-transactions",
-      "title": "U.S. Treasury proposes demands that stablecoin firms be set to police bad transactions",
-      "sentAt": "2026-04-09T03:43:36.877Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/treasury-genius-act-rule-illicit-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US Treasury moves forward with GENIUS Act, focusing on illicit finance",
-      "sentAt": "2026-04-09T03:43:36.877Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/sec-enforcement-director-questions-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US SEC taps new enforcement chief amid questions over predecessor's exit",
-      "sentAt": "2026-04-09T03:43:36.877Z"
-    },
-    {
       "url": "https://www.coindesk.com/coindesk-indices/2026/04/08/crypto-for-advisors-crypto-s-performance-q1",
       "title": "Crypto for Advisors: Crypto’s Performance Q1",
       "sentAt": "2026-04-10T03:57:31.898Z"
@@ -624,7 +609,27 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-yields-at-5-tug-traders-between-dip-buying-greed-and-fear",
       "title": "US Yields at 5% Tug Traders Between Dip-Buying Greed and Fear",
       "sentAt": "2026-05-08T04:14:02.472Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?  ",
+      "sentAt": "2026-05-09T04:19:31.715Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Stablecoins won’t strengthen global role of euro, ECB’s Lagarde says",
+      "sentAt": "2026-05-09T04:19:31.715Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/05/08/kraken-parent-goes-for-the-occ-charter-in-big-to-become-a-federal-crypto-bank",
+      "title": "Kraken parent goes for the OCC charter in bid to become a federal crypto bank",
+      "sentAt": "2026-05-09T04:19:31.715Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Senator questions Mark Zuckerberg on Meta’s stablecoin plans",
+      "sentAt": "2026-05-09T04:19:31.715Z"
     }
   ],
-  "lastUpdated": "2026-05-08T04:14:02.472Z"
+  "lastUpdated": "2026-05-09T04:19:31.716Z"
 }
