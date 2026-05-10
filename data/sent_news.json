@@ -1,46 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/08/crypto-for-advisors-crypto-s-performance-q1",
-      "title": "Crypto for Advisors: Crypto’s Performance Q1",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/us-treasury-cybersecurity-intel-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US Treasury expands cybersecurity threat intel to crypto industry",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bessent-presses-congress-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bessent ramps up pressure on Congress to pass CLARITY Act",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
-      "title": "U.S. Treasury to loop in crypto sector on hacker warnings shared with traditional firms",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-price-surfs-us-pce-inflation-data-shifts-wartime-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin price surfs US PCE inflation as trader keeps $80K BTC price target",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/09/td-cowen-says-these-3-crypto-stocks-could-actually-beat-bitcoin-etfs",
-      "title": "These 3 crypto stocks could actually beat bitcoin ETFs, says TD Cowen",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-rally-extends-toward-73k-despite-concerning-us-economic-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin rally extends toward $73K despite concerning US economic data",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/bond-traders-hedge-against-more-losses-as-inflation-data-looms",
-      "title": "Bond Traders Hedge Against More Losses as Inflation Data Looms",
-      "sentAt": "2026-04-10T03:57:31.898Z"
-    },
-    {
       "url": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
       "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
       "sentAt": "2026-04-11T03:34:25.779Z"
@@ -629,7 +589,17 @@
       "url": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "US Senator questions Mark Zuckerberg on Meta’s stablecoin plans",
       "sentAt": "2026-05-09T04:19:31.715Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer",
+      "title": "Inflation Drumbeat Persists for Unnerved US Consumer",
+      "sentAt": "2026-05-10T04:40:16.237Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
+      "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
+      "sentAt": "2026-05-10T04:40:16.237Z"
     }
   ],
-  "lastUpdated": "2026-05-09T04:19:31.716Z"
+  "lastUpdated": "2026-05-10T04:40:16.237Z"
 }
