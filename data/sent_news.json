@@ -1,66 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
-      "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-hits-73k-as-cool-us-cpi-data-shows-60-year-record-gas-price-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin hits $73K as cool US CPI data shows 60-year record gas price hike",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/04/10/xrp-adjacent-flare-proposes-protocol-level-mev-capture-and-40-inflation-cut",
-      "title": "XRP adjacent Flare proposes protocol-level MEV capture and 40% inflation cut",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march",
-      "title": "Bitcoin gains after core CPI rose a less-than-forecast 0.2% in March.",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/10/bitcoin-flatlines-as-inflation-data-looms-bittensor-drama-unfolds",
-      "title": "Bitcoin holds steady as inflation data looms, bittensor drama unfolds",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help",
-      "title": "Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/cpi-april-interest-rate-cuts-unlikely?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "US CPI comes in lower than expected, but April rate cut still unlikely",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-04-10/wall-street-week-iran-oil-fallout-video",
-      "title": "Wall Street Week | Iran Oil Fallout",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-10/us-stocks-seven-day-rally-stalls-ahead-of-cpi-us-iran-talks",
-      "title": "US Stocks Post Best Weekly Gain This Year Ahead of US-Iran Talks",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split",
-      "title": "David Bailey’s bitcoin holder Nakamoto is trying to stay on Nasdaq with a reverse stock split",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
-      "url": "https://cointelegraph.com/learn/articles/fake-coindcx-website-fraud-case-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "The fake website that led to an arrest: Inside the CoinDCX impersonation case",
-      "sentAt": "2026-04-11T03:34:25.779Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
       "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play ",
       "sentAt": "2026-04-12T03:59:24.746Z"
@@ -599,7 +539,17 @@
       "url": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
       "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
       "sentAt": "2026-05-10T04:40:16.237Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
+      "sentAt": "2026-05-11T04:55:27.250Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
+      "sentAt": "2026-05-11T04:55:27.250Z"
     }
   ],
-  "lastUpdated": "2026-05-10T04:40:16.237Z"
+  "lastUpdated": "2026-05-11T04:55:27.250Z"
 }
