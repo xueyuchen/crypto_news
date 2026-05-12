@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
-      "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play ",
-      "sentAt": "2026-04-12T03:59:24.746Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
-      "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
-      "sentAt": "2026-04-12T03:59:24.746Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/ecb-backs-plan-esma-crypto-supervision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "EU central bank backs plan for crypto supervision under EU markets watchdog",
       "sentAt": "2026-04-13T04:16:55.216Z"
@@ -549,7 +539,42 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
       "sentAt": "2026-05-11T04:55:27.250Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
+      "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
+      "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/galaxy-sharplink-125m-institutional-defi-fund-eth-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Galaxy, Sharplink plan $125M institutional DeFi yield fund backed by ETH treasury",
+      "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/australia-government-eyes-swap-from-cgt-to-inflation-indexation-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Australia plans capital gains tax changes affecting crypto investors: Report",
+      "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/11/corpay-taps-bvnk-to-bring-stablecoin-wallets-to-corporate-payments",
+      "title": "Corpay taps BVNK to bring stablecoin wallets to corporate payments",
+      "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
+      "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
+      "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/11/anchorage-is-stepping-back-from-robinhood-and-kraken-backed-stablecoin-group",
+      "title": "Anchorage is stepping back from Robinhood and Kraken-backed stablecoin group",
+      "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/capital-b-raises-178m-fuel-bitcoin-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Capital B raises $17.8M to expand its Bitcoin treasury",
+      "sentAt": "2026-05-12T04:32:55.548Z"
     }
   ],
-  "lastUpdated": "2026-05-11T04:55:27.250Z"
+  "lastUpdated": "2026-05-12T04:32:55.548Z"
 }
