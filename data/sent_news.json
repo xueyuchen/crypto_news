@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/ecb-backs-plan-esma-crypto-supervision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "EU central bank backs plan for crypto supervision under EU markets watchdog",
-      "sentAt": "2026-04-13T04:16:55.216Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ether-machine-spac-ethm-cancelled-dynamix-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions",
-      "sentAt": "2026-04-13T04:16:55.216Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-04-13/why-money-managers-are-looking-through-iran-conflict-video",
-      "title": "Why Money Managers Are 'Looking Through' Iran Conflict",
-      "sentAt": "2026-04-13T04:16:55.216Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/btc-fragile-iran-fallout-dominate-markets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BTC recovery fragile, Iran war fallout to 'dominate' markets in 2026: Analyst",
-      "sentAt": "2026-04-13T04:16:55.216Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/crypto-etp-1-1-billion-inflows-strongest-gains-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Crypto ETPs see $1.1B inflows, strongest gains since January",
       "sentAt": "2026-04-14T03:58:08.076Z"
@@ -574,7 +554,62 @@
       "url": "https://cointelegraph.com/news/capital-b-raises-178m-fuel-bitcoin-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Capital B raises $17.8M to expand its Bitcoin treasury",
       "sentAt": "2026-05-12T04:32:55.548Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
+      "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": " Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/12/france-s-central-banker-beau-breaks-with-ecb-s-lagarde-calls-for-private-tokenized-euro-mobilization",
+      "title": "France’s central banker Beau clashes with Lagarde over private digital euro plans",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/11/galaxy-digital-to-manage-sharplink-s-new-usd125-million-onchain-yield-play",
+      "title": "Galaxy Digital to manage Sharplink’s new $125 million onchain yield play",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
+      "title": "Hot inflation data pours cold water on Federal Reserve rate cut hopes",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/05/12/crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuffed-from-key-price-levels",
+      "title": "Crypto markets stalls before inflation data as XRP, SOL rebuffed from key price levels",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/korea-benchmark-bond-yield-tops-4-as-rate-hike-bets-grow",
+      "title": "Korea Benchmark Bond Yield Tops 4% as Rate-Hike Bets Grow",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/12/privacy-emerges-as-crypto-s-next-killer-app-with-arc-canton-and-tempo-topping-usd1-billion-in-funding",
+      "title": "Privacy emerges as crypto’s next 'killer app,' with Arc, Canton and Tempo topping $1 billion in funding",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
+      "title": "Live markets: Bitcoin climbs back to $80,800 as U.S. stocks bounce into the close",
+      "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-20-year-bond-yield-rises-to-1997-high-on-inflation-woes",
+      "title": "Japan’s 20-Year Bond Yield Rises to 1997 High on Inflation Woes",
+      "sentAt": "2026-05-13T04:40:45.440Z"
     }
   ],
-  "lastUpdated": "2026-05-12T04:32:55.548Z"
+  "lastUpdated": "2026-05-13T04:40:45.440Z"
 }
