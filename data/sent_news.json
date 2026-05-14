@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/crypto-etp-1-1-billion-inflows-strongest-gains-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Crypto ETPs see $1.1B inflows, strongest gains since January",
-      "sentAt": "2026-04-14T03:58:08.076Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/ecb-tokenized-eu-markets-central-bank-money-anchor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "ECB backs tokenized EU capital markets with strict guardrails",
-      "sentAt": "2026-04-14T03:58:08.076Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-s-struggle-to-build-long-lasting-uptrend-remain-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin's struggle to build long-lasting uptrend remain: Here’s why",
-      "sentAt": "2026-04-14T03:58:08.076Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/nigel-farage-backed-stack-btc-acquires-2-7m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Nigel Farage-backed Stack BTC adds $2.7M in Bitcoin to treasury",
-      "sentAt": "2026-04-14T03:58:08.076Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/bitcoin-hits-dollar76k-after-us-ppi-inflation-stays-tame-will-btc-hold-its-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin hits $76K after US PPI inflation stays tame: Will BTC hold its gains?",
       "sentAt": "2026-04-15T03:57:33.340Z"
@@ -609,7 +589,42 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-20-year-bond-yield-rises-to-1997-high-on-inflation-woes",
       "title": "Japan’s 20-Year Bond Yield Rises to 1997 High on Inflation Woes",
       "sentAt": "2026-05-13T04:40:45.440Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/crypto-exchange-paybis-secures-mica-and-psd2-licenses-in-latvia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Paybis secures MiCA, payment licenses in Latvia for EU crypto expansion",
+      "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/13/live-markets-bitcoin-dips-below-usd80-000-as-producer-price-inflation-surges-to-6",
+      "title": "Live markets: Bitcoin dips below $80,000 as producer price inflation surges to 6%",
+      "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-back-above-usd81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains",
+      "title": "Bitcoin back above $81,000 after hot CPI print, BNB, DOGE lead majors gains",
+      "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Whale shorts $70M in crypto and tech: Should Bitcoin traders worry?",
+      "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-80k-loss-us-ppi-inflation-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price targets $79K as US PPI inflation hits highest since 2022",
+      "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/iran-central-banks-crypto-wallets-get-public-map-after-ofac-designation-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Arkham maps Iran central bank wallets after $344M USDT freeze",
+      "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/05/13/tokenized-treasuries-hit-usd15-billion-as-bitcoin-stalls-fed-rate-rise-concerns-build",
+      "title": "Tokenized Treasuries hit $15 billion as bitcoin stalls, Fed rate-rise concerns build",
+      "sentAt": "2026-05-14T04:38:21.196Z"
     }
   ],
-  "lastUpdated": "2026-05-13T04:40:45.440Z"
+  "lastUpdated": "2026-05-14T04:38:21.196Z"
 }
