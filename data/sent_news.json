@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/bitcoin-hits-dollar76k-after-us-ppi-inflation-stays-tame-will-btc-hold-its-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin hits $76K after US PPI inflation stays tame: Will BTC hold its gains?",
-      "sentAt": "2026-04-15T03:57:33.340Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitcoin-s-brief-rally-to-dollar76k-may-have-been-a-bull-trap-here-s-the-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Bitcoin’s brief rally to $76K may have been a bull trap: Here’s the data",
-      "sentAt": "2026-04-15T03:57:33.340Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/xrpl-taps-boundless-for-bank-grade-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "XRP Ledger taps Boundless for bank-grade privacy on public blockchains",
-      "sentAt": "2026-04-15T03:57:33.340Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/04/14/bank-of-korea-nominee-backs-central-bank-led-digital-currency-sees-limited-role-for-stablecoins",
-      "title": "Bank of Korea nominee backs central bank-led digital currency, sees limited role for stablecoins ",
-      "sentAt": "2026-04-15T03:57:33.340Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it",
-      "title": "The next Fed chair has crypto exposure in his portfolio. Here are the details",
-      "sentAt": "2026-04-15T03:57:33.340Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/federal-reserve-chair-nominee-discloses-holdings-in-crypto-and-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Federal Reserve chair nominee's disclosure includes crypto and AI holdings",
-      "sentAt": "2026-04-15T03:57:33.340Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/04/15/a-new-class-of-crypto-treasury-companies-is-forming-around-strategy-s-high-yield-stock",
       "title": "A new class of crypto treasury companies is forming around Strategy’s high-yield stock",
       "sentAt": "2026-04-16T04:11:46.302Z"
@@ -624,7 +594,42 @@
       "url": "https://www.coindesk.com/daybook-us/2026/05/13/tokenized-treasuries-hit-usd15-billion-as-bitcoin-stalls-fed-rate-rise-concerns-build",
       "title": "Tokenized Treasuries hit $15 billion as bitcoin stalls, Fed rate-rise concerns build",
       "sentAt": "2026-05-14T04:38:21.196Z"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-for-advisors-stablecoins-finance-s-new-rails",
+      "title": "Crypto for Advisors: Stablecoins: finance's new rails",
+      "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/14/why-bitcoin-s-recent-climb-to-usd80-000-might-just-be-a-temporary-liquidity-squeeze",
+      "title": "Why bitcoin’s recent climb to $80,000 might just be a temporary liquidity squeeze",
+      "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-stuck-below-usd80-000-as-leveraged-longs-unwind-altcoins-slide",
+      "title": "Bitcoin stuck below $80,000 as leveraged longs unwind, altcoins slide",
+      "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/treasuries-lead-global-bond-yields-higher-on-inflation-angst",
+      "title": "Treasuries Lead Global Bond Yields Higher on Inflation Angst",
+      "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-support-for-85k-breakout-sp-500-new-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin holds key support for $85K breakout as S&P 500 hits new all-time high",
+      "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/14/strive-s-sata-to-become-first-u-s-listed-security-to-pay-daily-cash-dividends",
+      "title": "Strive’s SATA to become first U.S. listed security to pay daily cash dividends",
+      "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
+      "sentAt": "2026-05-15T04:44:22.093Z"
     }
   ],
-  "lastUpdated": "2026-05-14T04:38:21.196Z"
+  "lastUpdated": "2026-05-15T04:44:22.093Z"
 }
