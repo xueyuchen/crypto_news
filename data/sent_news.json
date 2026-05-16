@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/markets/2026/04/15/a-new-class-of-crypto-treasury-companies-is-forming-around-strategy-s-high-yield-stock",
-      "title": "A new class of crypto treasury companies is forming around Strategy’s high-yield stock",
-      "sentAt": "2026-04-16T04:11:46.302Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/pakistan-allows-banks-to-serve-licensed-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Pakistan allows banks to serve licensed crypto firms after years-long ban",
-      "sentAt": "2026-04-16T04:11:46.302Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/15/the-imf-just-repriced-the-macro-backdrop-for-bitcoin-with-a-global-debt-warning",
-      "title": "The 100% debt trap: Why the IMF’s latest warning is a massive long-term signal for bitcoin",
-      "sentAt": "2026-04-16T04:11:46.302Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-16/australian-unemployment-holds-steady-even-as-full-time-jobs-jump",
-      "title": "Australia Unemployment Holds at 4.3% Even as Full-Time Jobs Jump",
-      "sentAt": "2026-04-16T04:11:46.302Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/french-minister-measures-crypto-wrench-attacks-kidnappings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "French minister says new measures are coming after crypto kidnappings",
       "sentAt": "2026-04-17T04:00:11.470Z"
@@ -629,7 +609,32 @@
       "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
       "sentAt": "2026-05-15T04:44:22.093Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/15/hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin",
+      "title": "Hyperliquid leads 24-hour gains as altcoins pace bitcoin",
+      "sentAt": "2026-05-16T04:25:23.851Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-price-dives-under-79k-us-bond-market-triggers-3-btc-price-rout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout",
+      "sentAt": "2026-05-16T04:25:23.851Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/real-yield-5-15-2026-video",
+      "title": "Wall Street Prices Out Rate Cuts, Eyes Hikes, Global Bond Selloff Deepens | Real Yield 5/15/2026",
+      "sentAt": "2026-05-16T04:25:23.851Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
+      "title": "Bitcoin gives up Clarity Act gains as macro rout wipes out leveraged crypto bulls",
+      "sentAt": "2026-05-16T04:25:23.851Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/15/strategy-to-repurchase-usd1-5-billion-of-2029-convertible-bonds-using-cash-or-bitcoin-sales",
+      "title": "Strategy to repurchase $1.5 billion of 2029 convertible bonds using cash or bitcoin sales",
+      "sentAt": "2026-05-16T04:25:23.851Z"
     }
   ],
-  "lastUpdated": "2026-05-15T04:44:22.093Z"
+  "lastUpdated": "2026-05-16T04:25:23.851Z"
 }
