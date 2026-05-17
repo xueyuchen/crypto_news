@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/french-minister-measures-crypto-wrench-attacks-kidnappings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "French minister says new measures are coming after crypto kidnappings",
-      "sentAt": "2026-04-17T04:00:11.470Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/europe-bitcoin-treasury-model-not-copy-strategy-pbw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Europe’s Bitcoin treasury playbook won’t be a copy of Strategy: PBW 2026",
-      "sentAt": "2026-04-17T04:00:11.470Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-16/paulson-says-us-should-prepare-for-vicious-crash-in-treasuries",
-      "title": "Henry Paulson Suggests US Make a Break-Glass Treasuries Plan",
-      "sentAt": "2026-04-17T04:00:11.470Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/neo-founder-proposes-461m-overhaul-to-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Neo co-founder proposes $461M treasury overhaul to end ‘trust me’ governance",
       "sentAt": "2026-04-18T03:44:53.716Z"
@@ -634,7 +619,12 @@
       "url": "https://www.coindesk.com/markets/2026/05/15/strategy-to-repurchase-usd1-5-billion-of-2029-convertible-bonds-using-cash-or-bitcoin-sales",
       "title": "Strategy to repurchase $1.5 billion of 2029 convertible bonds using cash or bitcoin sales",
       "sentAt": "2026-05-16T04:25:23.851Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
+      "sentAt": "2026-05-17T04:48:58.829Z"
     }
   ],
-  "lastUpdated": "2026-05-16T04:25:23.851Z"
+  "lastUpdated": "2026-05-17T04:48:58.830Z"
 }
