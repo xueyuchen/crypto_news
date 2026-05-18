@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/neo-founder-proposes-461m-overhaul-to-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Neo co-founder proposes $461M treasury overhaul to end ‘trust me’ governance",
-      "sentAt": "2026-04-18T03:44:53.716Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000",
-      "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
-      "sentAt": "2026-04-18T03:44:53.716Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/04/17/french-government-pivots-from-slamming-privately-issued-stablecoins-to-supporting-them",
-      "title": "France's finance minister calls for more euro stablecoins in sign of government policy shift",
-      "sentAt": "2026-04-18T03:44:53.716Z"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/04/17/ethereum-just-had-its-busiest-quarter-ever-completing-a-three-year-comeback-on-chain",
-      "title": "Ethereum just had its busiest quarter ever, capping a three-year comeback",
-      "sentAt": "2026-04-18T03:44:53.716Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin",
       "title": "Former UK Prime Minister sees economy on 'very negative trajectory,' indicates support for bitcoin",
       "sentAt": "2026-04-19T04:11:31.392Z"
@@ -624,7 +604,27 @@
       "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
       "sentAt": "2026-05-17T04:48:58.829Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",
+      "sentAt": "2026-05-18T05:03:03.584Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-long-bond-yield-hits-highest-since-2023-on-inflation-concern",
+      "title": "US Long Bond Yield Hits Highest Since 2023 on Inflation Concern",
+      "sentAt": "2026-05-18T05:03:03.584Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+      "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
+      "sentAt": "2026-05-18T05:03:03.584Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/strategists-say-soaring-japanese-bond-yields-show-fiscal-worries",
+      "title": "Strategists Say Soaring Japanese Bond Yields Show Fiscal Worries",
+      "sentAt": "2026-05-18T05:03:03.584Z"
     }
   ],
-  "lastUpdated": "2026-05-17T04:48:58.830Z"
+  "lastUpdated": "2026-05-18T05:03:03.584Z"
 }
