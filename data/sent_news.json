@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks",
-      "title": "Global stablecoin rulemaking slows, prompting BIS to urge cooperation to avoid fragmentation risks",
-      "sentAt": "2026-04-21T04:08:49.687Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026",
-      "title": "Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026",
-      "sentAt": "2026-04-21T04:08:49.687Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Philippines SEC flags dYdX, six crypto platforms as unauthorized",
       "sentAt": "2026-04-22T03:56:55.967Z"
@@ -689,7 +679,17 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-19/asian-stocks-to-track-us-drop-on-inflation-fears-markets-wrap",
       "title": "Stocks Extend Drop Before Nvidia, Bonds Hold Loss: Markets Wrap",
       "sentAt": "2026-05-20T04:59:28.290Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-rallies-through-77k-despite-spot-btc-etf-outflows-topping-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B",
+      "sentAt": "2026-05-21T05:04:28.721Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
+      "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
+      "sentAt": "2026-05-21T05:04:28.721Z"
     }
   ],
-  "lastUpdated": "2026-05-20T04:59:28.290Z"
+  "lastUpdated": "2026-05-21T05:04:28.721Z"
 }
