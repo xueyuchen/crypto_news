@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Philippines SEC flags dYdX, six crypto platforms as unauthorized",
-      "sentAt": "2026-04-22T03:56:55.967Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates",
-      "title": "Bitcoin slides toward $75,000 amid Warsh hearing, stalling U.S.-Iran talks",
-      "sentAt": "2026-04-22T03:56:55.967Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/kevin-warsh-fed-hearing-conflicts-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Fed chair nominee pressed on potential conflicts of interest, independence",
-      "sentAt": "2026-04-22T03:56:55.967Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/fraudsters-pose-iranian-authorities-crypto-stranded-ships-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Scammers demand crypto from stranded ships in Strait of Hormuz: Report",
-      "sentAt": "2026-04-22T03:56:55.967Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
       "sentAt": "2026-04-23T04:09:59.466Z"
@@ -689,7 +669,27 @@
       "url": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
       "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
       "sentAt": "2026-05-21T05:04:28.721Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/fed-skinny-payment-account-proposal-trump-crypto-order?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Fed seeks input on limited payment accounts after Trump order",
+      "sentAt": "2026-05-22T04:56:38.739Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+      "sentAt": "2026-05-22T04:56:38.739Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC",
+      "sentAt": "2026-05-22T04:56:38.739Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-21/gold-steady-as-us-iran-signals-keep-rate-hike-bets-simmering",
+      "title": "Gold Steady as US-Iran Signals Keep Rate Hike Bets Simmering",
+      "sentAt": "2026-05-22T04:56:38.739Z"
     }
   ],
-  "lastUpdated": "2026-05-21T05:04:28.721Z"
+  "lastUpdated": "2026-05-22T04:56:38.740Z"
 }
