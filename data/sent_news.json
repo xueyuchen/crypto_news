@@ -1,21 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
-      "sentAt": "2026-04-23T04:09:59.466Z"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
-      "title": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
-      "sentAt": "2026-04-23T04:09:59.466Z"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/04/22/trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-power",
-      "title": "Trump-linked American Bitcoin shares spike over 12% after announcing more mining power",
-      "sentAt": "2026-04-23T04:09:59.466Z"
-    },
-    {
       "url": "https://www.coindesk.com/daybook-us/2026/04/23/bitcoin-s-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
       "title": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
       "sentAt": "2026-04-24T04:14:25.261Z"
@@ -689,7 +674,12 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-21/gold-steady-as-us-iran-signals-keep-rate-hike-bets-simmering",
       "title": "Gold Steady as US-Iran Signals Keep Rate Hike Bets Simmering",
       "sentAt": "2026-05-22T04:56:38.739Z"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+      "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
+      "sentAt": "2026-05-23T04:33:45.456Z"
     }
   ],
-  "lastUpdated": "2026-05-22T04:56:38.740Z"
+  "lastUpdated": "2026-05-23T04:33:45.457Z"
 }
