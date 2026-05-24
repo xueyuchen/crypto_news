@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/daybook-us/2026/04/23/bitcoin-s-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
-      "title": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
-      "sentAt": "2026-04-24T04:14:25.261Z"
-    },
-    {
       "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
       "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
       "sentAt": "2026-04-25T03:49:08.325Z"
@@ -679,7 +674,17 @@
       "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
       "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
       "sentAt": "2026-05-23T04:33:45.456Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+      "sentAt": "2026-05-24T04:57:57.489Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
+      "sentAt": "2026-05-24T04:57:57.489Z"
     }
   ],
-  "lastUpdated": "2026-05-23T04:33:45.457Z"
+  "lastUpdated": "2026-05-24T04:57:57.489Z"
 }
