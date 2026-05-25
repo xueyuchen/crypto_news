@@ -1,31 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
-      "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
-      "sentAt": "2026-04-25T03:49:08.325Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-rally-is-stalling-as-japan-macro-adds-to-iran-war-driven-market-jitters",
-      "title": "Bitcoin rally is stalling as Japanese inflation adds to Iran war–driven market jitters",
-      "sentAt": "2026-04-25T03:49:08.325Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/nakamoto-taps-bitwise-kraken-bitcoin-options-strategy-hedge-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Nakamoto taps Bitwise and Kraken for Bitcoin options strategy to hedge risk",
-      "sentAt": "2026-04-25T03:49:08.325Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/metaplanet-issues-50-million-in-zero-coupon-bonds-to-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Metaplanet raises $50M in zero-interest bonds to buy more Bitcoin",
-      "sentAt": "2026-04-25T03:49:08.325Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/fmr-fed-governor-betsy-duke-on-warsh-s-future-rates-video",
-      "title": "Fmr. Fed Governor Betsy Duke on Warsh's Future, Rates",
-      "sentAt": "2026-04-25T03:49:08.325Z"
-    },
-    {
       "url": "https://www.bloomberg.com/news/videos/2026-04-25/what-the-fed-can-do-about-anthropic-s-latest-system-video",
       "title": "What the Fed Can Do About Anthropic’s Latest System\n",
       "sentAt": "2026-04-26T04:19:46.507Z"
@@ -684,7 +659,17 @@
       "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
       "sentAt": "2026-05-24T04:57:57.489Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
+      "sentAt": "2026-05-25T05:15:38.478Z"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+      "title": "Crypto and the Fed: State of Crypto ",
+      "sentAt": "2026-05-25T05:15:38.478Z"
     }
   ],
-  "lastUpdated": "2026-05-24T04:57:57.489Z"
+  "lastUpdated": "2026-05-25T05:15:38.478Z"
 }
