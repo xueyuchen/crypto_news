@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.bloomberg.com/news/videos/2026-04-25/what-the-fed-can-do-about-anthropic-s-latest-system-video",
-      "title": "What the Fed Can Do About Anthropic’s Latest System\n",
-      "sentAt": "2026-04-26T04:19:46.507Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
       "sentAt": "2026-04-27T04:26:53.734Z"
@@ -669,7 +664,27 @@
       "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
       "title": "Crypto and the Fed: State of Crypto ",
       "sentAt": "2026-05-25T05:15:38.478Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/tether-georgia-government-plan-lari-backed-stablecoin-gelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tether, Georgia plan lari-backed stablecoin GELT under new rules",
+      "sentAt": "2026-05-26T04:57:39.322Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/treasury-curve-flashes-higher-for-longer-warning-under-warsh",
+      "title": "Treasury Curve Flashes Higher-for-Longer Warning Under Warsh",
+      "sentAt": "2026-05-26T04:57:39.322Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/25/pce-jobless-claims-and-housing-data-test-fed-cut-hopes-crypto-week-ahead",
+      "title": "PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead",
+      "sentAt": "2026-05-26T04:57:39.322Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-05-26/few-good-options-for-central-banks-socgen-s-wei-yao-video",
+      "title": "Few Good Options For Central Banks: SocGen's Wei Yao",
+      "sentAt": "2026-05-26T04:57:39.322Z"
     }
   ],
-  "lastUpdated": "2026-05-25T05:15:38.478Z"
+  "lastUpdated": "2026-05-26T04:57:39.322Z"
 }
