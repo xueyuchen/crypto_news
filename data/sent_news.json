@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
-      "sentAt": "2026-04-27T04:26:53.734Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
       "title": "Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value'",
       "sentAt": "2026-04-28T04:30:40.055Z"
@@ -684,7 +679,42 @@
       "url": "https://www.bloomberg.com/news/videos/2026-05-26/few-good-options-for-central-banks-socgen-s-wei-yao-video",
       "title": "Few Good Options For Central Banks: SocGen's Wei Yao",
       "sentAt": "2026-05-26T04:57:39.322Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/26/strategy-taps-cash-reserve-to-retire-usd1-5-billion-in-convertible-debt",
+      "title": "Strategy taps cash reserve to retire $1.5 billion in convertible debt",
+      "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/05/26/bitcoin-etfs-crushed-by-billions-in-outflows-as-treasuries-stifle-interest-rate-cut-hopes",
+      "title": "Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes",
+      "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/eth-treasury-firms-staking-revenue-etfs-dat-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ethereum treasury firms lean on staking as ETF pressure builds: Report",
+      "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes",
+      "title": "Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel  indexes",
+      "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/26/hyperliquid-takes-aim-at-polymarket-with-launch-of-offchain-event-contracts",
+      "title": "Hyperliquid takes a swing at Polymarket with macro outcome bets",
+      "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-treasuries-add-603-btc-strategy-bitmine-pause-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin treasury firms add 603 BTC as Strategy pauses buying",
+      "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/26/live-markets-bitcoin-on-sidelines-as-markets-surge-on-iran-peace-hopes",
+      "title": "Live markets: bitcoin leads crypto slide even as tech sector closes sharply higher",
+      "sentAt": "2026-05-27T05:11:11.353Z"
     }
   ],
-  "lastUpdated": "2026-05-26T04:57:39.322Z"
+  "lastUpdated": "2026-05-27T05:11:11.353Z"
 }
