@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
-      "title": "Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value'",
-      "sentAt": "2026-04-28T04:30:40.055Z"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/blackrock-says-higher-government-bond-yields-are-here-to-stay",
-      "title": "BlackRock Says Higher Government Bond Yields Are Here to Stay",
-      "sentAt": "2026-04-28T04:30:40.055Z"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
-      "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
-      "sentAt": "2026-04-28T04:30:40.055Z"
-    },
-    {
-      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "BitMine acquires 101,000 ETH despite $6.5B in unrealized losses",
-      "sentAt": "2026-04-28T04:30:40.055Z"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/04/28/riot-extends-usd200-million-coinbase-credit-facility-and-bitcoin-weakness-could-mean-more-sales",
       "title": "Riot extends $200 million Coinbase credit facility, and bitcoin weakness could mean more sales",
       "sentAt": "2026-04-29T04:26:21.796Z"
@@ -714,7 +694,32 @@
       "url": "https://www.coindesk.com/markets/2026/05/26/live-markets-bitcoin-on-sidelines-as-markets-surge-on-iran-peace-hopes",
       "title": "Live markets: bitcoin leads crypto slide even as tech sector closes sharply higher",
       "sentAt": "2026-05-27T05:11:11.353Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-could-be-heading-much-lower-fund-manager-warns-as-usd150-billion-treasury-operation-nears",
+      "title": "Bitcoin could be heading much lower, fund manager warns as $150 billion Treasury operation nears",
+      "sentAt": "2026-05-28T05:05:17.377Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/05/27/bis-project-finds-tokenization-could-make-cross-border-payments-faster-safer",
+      "title": "BIS project finds tokenization could make cross-border payments faster, safer",
+      "sentAt": "2026-05-28T05:05:17.377Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-falls-67-reverse-stock-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split ",
+      "sentAt": "2026-05-28T05:05:17.377Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge",
+      "title": "Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge",
+      "sentAt": "2026-05-28T05:05:17.377Z"
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-price-threatens-75k-loss-as-us-iran-peace-progress-sparks-new-stocks-records?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin price threatens $75K loss as US-Iran peace progress sparks new stocks records",
+      "sentAt": "2026-05-28T05:05:17.377Z"
     }
   ],
-  "lastUpdated": "2026-05-27T05:11:11.353Z"
+  "lastUpdated": "2026-05-28T05:05:17.377Z"
 }
