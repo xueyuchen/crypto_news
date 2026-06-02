@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
-      "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
-      "sentAt": "2026-05-03T04:37:04.871Z"
-    },
-    {
       "url": "https://cointelegraph.com/news/wallets-seized-by-ofac-may-not-be-iranian-other-state-actors-instead-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "title": "Wallets seized by OFAC may not be Iranian; other state actors instead: Analyst",
       "sentAt": "2026-05-04T04:37:07.809Z"
@@ -614,7 +609,42 @@
       "url": "https://www.bloomberg.com/opinion/newsletters/2026-06-01/a-strategic-debacle-but-stocks-keep-winning",
       "title": "A Strategic Debacle, But Stocks Keep Winning",
       "sentAt": "2026-06-01T05:54:49.082Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/bitwise-takes-over-259m-tokenized-crypto-carry-fund-from-superstate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitwise completes takeover of Superstate's $259M crypto carry fund",
+      "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/01/saylor-s-strategy-sold-bitcoin-for-the-first-time-since-2022-these-firms-are-still-buying",
+      "title": "Saylor's Strategy sold bitcoin for the first time since 2022. These firms are still buying",
+      "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/01/citi-predicts-the-tokenized-securities-market-will-grow-to-usd5-5-trillion-by-2030",
+      "title": "Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030",
+      "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+      "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
+      "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Strategy's BTC sale turns Bitcoin treasury into market stress test",
+      "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/pimco-says-treasury-yields-driven-by-fed-bets-not-ai-for-now",
+      "title": "Pimco Says Treasury Yields Driven by Fed Bets, Not AI, for Now",
+      "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/01/bitmine-slows-ether-purchase-pace-buying-usd53-million-worth-last-week",
+      "title": "Bitmine slows ether purchase pace, buying $53 million worth last week",
+      "sentAt": "2026-06-02T05:26:03.497Z"
     }
   ],
-  "lastUpdated": "2026-06-01T05:54:49.083Z"
+  "lastUpdated": "2026-06-02T05:26:03.497Z"
 }
