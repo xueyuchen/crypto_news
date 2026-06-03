@@ -1,11 +1,6 @@
 {
   "records": [
     {
-      "url": "https://cointelegraph.com/news/wallets-seized-by-ofac-may-not-be-iranian-other-state-actors-instead-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "title": "Wallets seized by OFAC may not be Iranian; other state actors instead: Analyst",
-      "sentAt": "2026-05-04T04:37:07.809Z"
-    },
-    {
       "url": "https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether",
       "title": "Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether",
       "sentAt": "2026-05-05T04:14:05.734Z"
@@ -644,7 +639,22 @@
       "url": "https://www.coindesk.com/business/2026/06/01/bitmine-slows-ether-purchase-pace-buying-usd53-million-worth-last-week",
       "title": "Bitmine slows ether purchase pace, buying $53 million worth last week",
       "sentAt": "2026-06-02T05:26:03.497Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/coinbase-invests-proshares-etf-tailored-stablecoin-reserve-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Coinbase invests in ProShares ETF tailored for stablecoin reserve assets",
+      "sentAt": "2026-06-03T05:57:20.694Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/crypto-treasury-inflows-may-lowest-october-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto treasury inflows fall to lowest level since 2024",
+      "sentAt": "2026-06-03T05:57:20.694Z"
+    },
+    {
+      "url": "https://cointelegraph.com/news/capital-b-shareholder-motion-58b-capital-increase-116b-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Capital B seeks $122B funding mandate to buy more Bitcoin",
+      "sentAt": "2026-06-03T05:57:20.694Z"
     }
   ],
-  "lastUpdated": "2026-06-02T05:26:03.497Z"
+  "lastUpdated": "2026-06-03T05:57:20.694Z"
 }
